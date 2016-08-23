@@ -9,10 +9,12 @@ int main( void )
 	bensSentence1();
 	printf("\n\n");
 
+
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	    
+	wb_MySentence1();
+	wb_MySentence2();   
 	    
 	    
 	    
