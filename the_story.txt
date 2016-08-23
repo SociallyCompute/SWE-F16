@@ -3,6 +3,8 @@
 Once upon a time
 
 
+A wizard appeared before the great Linus Torvald
+The wizard explained that they were in need of a system to control his apprentice's spell collection which was always being overwritten and broken by fellow wizards
 
 The end. 
 
