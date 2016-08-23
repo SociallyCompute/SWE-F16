@@ -9,10 +9,12 @@ int main( void )
 	bensSentence1();
 	printf("\n\n");
 
+
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	    
+	btkvfsentence1();
+	btkvfsentence2();
 	    
 	    
 	    
