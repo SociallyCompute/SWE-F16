@@ -53,7 +53,7 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o 
+story: story.o yhcz4.o 
 	$(CC) -o story $^
 	
 
@@ -64,7 +64,7 @@ story.o: story.c
 
 # -----------------------------------------------
 #pawprint.o -  where is your .c derived object file - where is your file
-bpbkt7.o: sentences/bpbkt7.c
+yhcz4.o: sentences/yhcz4.c
 	$(CC) -c $<
 
 

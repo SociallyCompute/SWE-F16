@@ -12,8 +12,10 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	    
-	    
+	yisSentence2(); 
+	printf("\n\n");
+	yisSentence3();
+	printf("\n\n");
 	    
 	    
 	// DO NOT ADD AFTER THIS COMMENT
