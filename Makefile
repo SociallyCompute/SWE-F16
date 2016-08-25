@@ -54,9 +54,9 @@ cleanwin:
 # -----------------------------------------------
 
 
-story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o
+story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o
 	$(CC) -o story $^
-	
+
 
 # -----------------------------------------------
 
@@ -73,9 +73,11 @@ tiit37.o: sentences/tiit37.c
 		$(CC) -c $<
 wb334.o: sentences/wb334.c
 		$(CC) -c $<
-kbzg4.o: sentences/kbzg4.c		
+kbzg4.o: sentences/kbzg4.c
 	$(CC) -c $<
-jbwy9b.o: sentences/jbwy9b.c		
+jbwy9b.o: sentences/jbwy9b.c
 	$(CC) -c $<
 aardz6.o: sentences/aardz6.c
 	$(CC) -c $<
+skinnerh.o: sentences/skinnerh.c
+		$(CC) -c $<
