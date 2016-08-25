@@ -12,15 +12,14 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	    
-	    
-	    
-	    
+
+	kddth9Sentence1();
+	kddth9Sentence2();
+
+
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
 	printf("\n\n");
 }
-
-
-
