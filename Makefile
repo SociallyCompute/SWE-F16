@@ -75,13 +75,12 @@ tiit37.o: sentences/tiit37.c
 wb334.o: sentences/wb334.c
 		$(CC) -c $<
 kbzg4.o: sentences/kbzg4.c
-	$(CC) -c $<
+		$(CC) -c $<
 jbwy9b.o: sentences/jbwy9b.c
-	$(CC) -c $<
+		$(CC) -c $<
 aardz6.o: sentences/aardz6.c
-	$(CC) -c $<
+		$(CC) -c $<
 skinnerh.o: sentences/skinnerh.c
 		$(CC) -c $<
 kddth9.o: sentences/kddth9.c
-				$(CC) -c $<
-
+		$(CC) -c $<
