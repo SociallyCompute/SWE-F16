@@ -110,3 +110,6 @@ int jadppfSentence2();
 
 void erbmt9a();
 void erbmt9b();
+
+int scottSentence1();
+int scottSentence2();
