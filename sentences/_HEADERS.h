@@ -8,6 +8,9 @@ int bensSentence_FINAL();
 int KurtsSentence1();
 int KurtsSentence_FINAL();
 
+<<<<<<< HEAD
+
+=======
 int matthewsSentence1();
 int matthewsSentence2();
 
@@ -22,6 +25,13 @@ void jwSentence2();
 
 int aliSentence1();
 int aliSentence2();
+<<<<<<< HEAD
+>>>>>>> SociallyCompute/master
+=======
 
 int holtSentence1();
 int holtSentence2();
+
+int kienanSentence1();
+int kienanSentence2();
+>>>>>>> SociallyCompute/master
