@@ -16,8 +16,7 @@ int main( void )
 <<<<<<< HEAD
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 
-	kddth9Sentence1();
-	kddth9Sentence2();
+
 
 
 
