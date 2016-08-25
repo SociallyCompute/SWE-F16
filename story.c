@@ -68,6 +68,8 @@ int main( void )
 	WXLSentence1();
 	WXLSentence2();
 
+	yisSentence1();
+    yisSentence2();
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

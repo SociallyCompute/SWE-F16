@@ -68,7 +68,7 @@ story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o
 
 story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o
 
-story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o wlkr7.o
+story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o wlkr7.o yhcz4.o
 
 
 
@@ -108,4 +108,6 @@ kddth9.o: sentences/kddth9.c
 kewkr8.o: sentences/kewkr8.c
 		$(CC) -c $<
 wlkr7.o :sentences/wlkr7.c
+		$(CC) -c $<
+yhcz4.o :sentences/yhcz4.c
 		$(CC) -c $<
