@@ -13,19 +13,17 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-<<<<<<< HEAD
-	KurtsSentence1();
-    KurtsSentence_FINAL();
-	    
-=======
+		    
 	matthewsSentence1();	    
 	matthewsSentence2();
+    KurtsSentence1();
+    KurtsSentence_FINAL();
+
 	wb_MySentence1();
 	wb_MySentence2();
 	
 	tiit37Sentence1();
 	tiit37Sentence2();
->>>>>>> origin/master
 	    
 	    
 	// DO NOT ADD AFTER THIS COMMENT

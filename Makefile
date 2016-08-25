@@ -53,12 +53,8 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-<<<<<<< HEAD
-story: story.o bpbkt7.o wb334.o kbzg4.o
-=======
 
-story: story.o bpbkt7.o mjrqq3.o tiit37.o wb334.o
->>>>>>> origin/master
+story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o 
 	$(CC) -o story $^
 	
 
