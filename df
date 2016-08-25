@@ -1,0 +1,240 @@
+diff --cc Makefile
+index 6ce03eb,d4b2c9a..0000000
+--- a/Makefile
++++ b/Makefile
+@@@ -53,7 -53,8 +53,12 @@@ cleanwin
+  # And how do we make it?
+  # -----------------------------------------------
+  
+++<<<<<<< HEAD
+ +story: story.o jbwy9b.o bpbkt7.o
+++=======
++ 
++ story: story.o bpbkt7.o mjrqq3.o tiit37.o wb334.o
+++>>>>>>> 69c36348e49aea79bb1fbbff58ddf32c25ab62d4
+  	$(CC) -o story $^
+  	
+  
+@@@ -66,7 -67,10 +71,14 @@@ story.o: story.
+  #pawprint.o -  where is your .c derived object file - where is your file
+  bpbkt7.o: sentences/bpbkt7.c
+  	$(CC) -c $<
+++<<<<<<< HEAD
+ +jbwy9b.o: sentences/jbwy9b.c
+++=======
++ mjrqq3.o: sentences/mjrqq3.c
++ 	$(CC) -c $<
++ tiit37.o: sentences/tiit37.c
++ 	$(CC) -c $<
++ wb334.o: sentences/wb334.c
+++>>>>>>> 69c36348e49aea79bb1fbbff58ddf32c25ab62d4
+  	$(CC) -c $<
+- 
+  
+diff --cc sentences/_HEADERS.h
+index f651749,3a4d7b2..0000000
+--- a/sentences/_HEADERS.h
++++ b/sentences/_HEADERS.h
+@@@ -5,7 -5,15 +5,20 @@@ int bensSentence_FINAL()
+  //
+  // DECLARE YOUR symbols here, implement them in a standalone C file
+  // vvvvvvvvvvvvvvv  Student work goes down here
+++<<<<<<< HEAD
+ +void jaredsSentence1();
+ +void jaredsSentence2();
+++=======
++ 
++ int matthewsSentence1();
++ int matthewsSentence2();
++ 
++ int tiit37Sentence1();
++ int tiit37Sentence2();
++ 
++ extern int wb_MySentence1();
++ extern int wb_MySentence2();
+++>>>>>>> 69c36348e49aea79bb1fbbff58ddf32c25ab62d4
++ 
+  
+  
+diff --cc story
+index 23d7f43,aaa9ccc..0000000
+Binary files differ
+diff --cc story.c
+index c089c39,1093921..0000000
+--- a/story.c
++++ b/story.c
+@@@ -12,9 -12,15 +12,21 @@@ int main( void 
+  
+  	// Add your sentence.
+  	// Don't forget to update the header file.
+++<<<<<<< HEAD
+ +	// vvvvvvvvvvvvvvvv STUDENT WORK HERE   
+ +	jaredsSentence1();
+ +	jaredsSentence2();
+++=======
++ 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
++ 	matthewsSentence1();	    
++ 	matthewsSentence2();
++ 	wb_MySentence1();
++ 	wb_MySentence2();
++ 	
++ 	tiit37Sentence1();
++ 	tiit37Sentence2();
++ 	    
+++>>>>>>> 69c36348e49aea79bb1fbbff58ddf32c25ab62d4
+  	    
+  	// DO NOT ADD AFTER THIS COMMENT
+  	// Bens sentence should be last.
+diff --cc story.o
+index 037b5a4,cec780e..0000000
+Binary files differ
+diff --git a/branch_jbwy9b.log b/branch_jbwy9b.log
+deleted file mode 100644
+index 5629992..0000000
+--- a/branch_jbwy9b.log
++++ /dev/null
+@@ -1,64 +0,0 @@
+-commit 90aa13226555ba18a1d29a4d2efd24b4d0d5fe65
+-Author: Jared Welch <jbwy9b@mail.missouri.edu>
+-Date:   Wed Aug 24 17:01:22 2016 -0500
+-
+-    added sentences and changed makefile:
+-
+- Makefile             |   4 ++--
+- bpbkt7.o             | Bin 972 -> 1688 bytes
+- jbwy9b.o             | Bin 0 -> 1888 bytes
+- sentences/_HEADERS.h |   4 ++--
+- sentences/jbwy9b.c   |   8 ++++++++
+- story                | Bin 8624 -> 8782 bytes
+- story.c              |   8 +++-----
+- story.o              | Bin 1020 -> 1896 bytes
+- 8 files changed, 15 insertions(+), 9 deletions(-)
+-
+-commit 12ba1bb78f5ebd76e77f859a082a291a1956cc4d
+-Merge: 1fdbc61 2c32a01
+-Author: Sean P. Goggins <s@goggins.com>
+-Date:   Wed Aug 24 15:04:50 2016 -0500
+-
+-    Merge pull request #2 from bowenqiang/master
+-    
+-    create new story by wenqiang bo
+-
+-commit 2c32a012442f86524d47b07c692749c3d88fcf0a
+-Author: wenqiang bo <wb334@mail.missouri.edu>
+-Date:   Tue Aug 23 16:47:10 2016 -0500
+-
+-    create new story by wb334
+-
+- Makefile             |   4 +++-
+- bpbkt7.o             | Bin 0 -> 972 bytes
+- sentences/_HEADERS.h |   3 ++-
+- sentences/wb334.c    |  16 ++++++++++++++++
+- story                | Bin 0 -> 8624 bytes
+- story.c              |   4 +++-
+- story.o              | Bin 0 -> 1020 bytes
+- the_story.txt        |   4 ++++
+- wb334.o              | Bin 0 -> 1268 bytes
+- 9 files changed, 28 insertions(+), 3 deletions(-)
+-
+-commit 1fdbc6177015927e048995e20188d21f06e62008
+-Author: Sean P. Goggins <s@goggins.com>
+-Date:   Tue Aug 23 11:35:44 2016 -0500
+-
+-    Update README.md
+-
+- README.md | 2 +-
+- 1 file changed, 1 insertion(+), 1 deletion(-)
+-
+-commit ac3d0a5d656698af70704232c959549d12fec196
+-Author: Sean P. Goggins <s@goggins.com>
+-Date:   Tue Aug 23 07:19:49 2016 -0500
+-
+-    Initial Commit
+-
+- Makefile             | 70 ++++++++++++++++++++++++++++++++++++++++++++++++++++
+- README.md            |  4 +++
+- sentences/_HEADERS.h | 10 ++++++++
+- sentences/bpbkt7.c   | 18 ++++++++++++++
+- story.c              | 26 +++++++++++++++++++
+- the_story.txt        |  9 +++++++
+- 6 files changed, 137 insertions(+)
+diff --git a/master_jbwy9b.log b/master_jbwy9b.log
+deleted file mode 100644
+index 95e4cfc..0000000
+--- a/master_jbwy9b.log
++++ /dev/null
+@@ -1,74 +0,0 @@
+-commit 7029b651ed43e5d49b1333de924f5427873c3c57
+-Author: Jared Welch <jbwy9b@mail.missouri.edu>
+-Date:   Wed Aug 24 17:08:35 2016 -0500
+-
+-    merged jbwy9b branch into master
+-
+- sentences/wb334.c |  16 ----------------
+- wb334.o           | Bin 1268 -> 0 bytes
+- 2 files changed, 16 deletions(-)
+-
+-commit 90aa13226555ba18a1d29a4d2efd24b4d0d5fe65
+-Author: Jared Welch <jbwy9b@mail.missouri.edu>
+-Date:   Wed Aug 24 17:01:22 2016 -0500
+-
+-    added sentences and changed makefile:
+-
+- Makefile             |   4 ++--
+- bpbkt7.o             | Bin 972 -> 1688 bytes
+- jbwy9b.o             | Bin 0 -> 1888 bytes
+- sentences/_HEADERS.h |   4 ++--
+- sentences/jbwy9b.c   |   8 ++++++++
+- story                | Bin 8624 -> 8782 bytes
+- story.c              |   8 +++-----
+- story.o              | Bin 1020 -> 1896 bytes
+- 8 files changed, 15 insertions(+), 9 deletions(-)
+-
+-commit 12ba1bb78f5ebd76e77f859a082a291a1956cc4d
+-Merge: 1fdbc61 2c32a01
+-Author: Sean P. Goggins <s@goggins.com>
+-Date:   Wed Aug 24 15:04:50 2016 -0500
+-
+-    Merge pull request #2 from bowenqiang/master
+-    
+-    create new story by wenqiang bo
+-
+-commit 2c32a012442f86524d47b07c692749c3d88fcf0a
+-Author: wenqiang bo <wb334@mail.missouri.edu>
+-Date:   Tue Aug 23 16:47:10 2016 -0500
+-
+-    create new story by wb334
+-
+- Makefile             |   4 +++-
+- bpbkt7.o             | Bin 0 -> 972 bytes
+- sentences/_HEADERS.h |   3 ++-
+- sentences/wb334.c    |  16 ++++++++++++++++
+- story                | Bin 0 -> 8624 bytes
+- story.c              |   4 +++-
+- story.o              | Bin 0 -> 1020 bytes
+- the_story.txt        |   4 ++++
+- wb334.o              | Bin 0 -> 1268 bytes
+- 9 files changed, 28 insertions(+), 3 deletions(-)
+-
+-commit 1fdbc6177015927e048995e20188d21f06e62008
+-Author: Sean P. Goggins <s@goggins.com>
+-Date:   Tue Aug 23 11:35:44 2016 -0500
+-
+-    Update README.md
+-
+- README.md | 2 +-
+- 1 file changed, 1 insertion(+), 1 deletion(-)
+-
+-commit ac3d0a5d656698af70704232c959549d12fec196
+-Author: Sean P. Goggins <s@goggins.com>
+-Date:   Tue Aug 23 07:19:49 2016 -0500
+-
+-    Initial Commit
+-
+- Makefile             | 70 ++++++++++++++++++++++++++++++++++++++++++++++++++++
+- README.md            |  4 +++
+- sentences/_HEADERS.h | 10 ++++++++
+- sentences/bpbkt7.c   | 18 ++++++++++++++
+- story.c              | 26 +++++++++++++++++++
+- the_story.txt        |  9 +++++++
+- 6 files changed, 137 insertions(+)

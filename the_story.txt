@@ -3,10 +3,16 @@
 Once upon a time
 
 
+<<<<<<< HEAD
+there was a link, a missing link that is, called 404.
+
+He just wanted to tell you how he was feeling, had to make you understand, that he was never going to give you up or let you down.
+=======
 There was a bigfoot living in an mountain.
 And he was desperately looking for a pair of shoes to keep his feet warm during the winter.
 Because of his unsual size of feet, he couldn't find one in the local town
 Have you tried Ebay?------One of this friend asked
+>>>>>>> 12ba1bb78f5ebd76e77f859a082a291a1956cc4d
 
 The end. 
 
