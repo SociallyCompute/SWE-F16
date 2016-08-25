@@ -54,7 +54,7 @@ cleanwin:
 # -----------------------------------------------
 
 <<<<<<< HEAD
-story: story.o bpbkt7.o kddth9.o
+story: story.o bpbkt7.o 
 =======
 
 <<<<<<< HEAD
@@ -89,8 +89,7 @@ aardz6.o: sentences/aardz6.c
 	$(CC) -c $<
 <<<<<<< HEAD
 <<<<<<< HEAD
-kddth9.o: sentences/kddth9.c
-	$(CC) -c $<
+
 =======
 >>>>>>> SociallyCompute/master
 =======
