@@ -18,7 +18,7 @@ int main( void )
   KurtsSentence1();
 
 	holtSentence1();
-	
+
   KurtsSentence_FINAL();
 
 	wb_MySentence1();
@@ -34,6 +34,9 @@ int main( void )
 	jwSentence2();
 
 	holtSentence2();
+
+	kienanSentence1();
+	kienanSentence2();
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

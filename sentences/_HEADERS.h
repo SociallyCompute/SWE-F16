@@ -25,3 +25,6 @@ int aliSentence2();
 
 int holtSentence1();
 int holtSentence2();
+
+int kienanSentence1();
+int kienanSentence2();
