@@ -17,6 +17,9 @@ int main( void )
 	matthewsSentence2();
 	wb_MySentence1();
 	wb_MySentence2();
+	
+	tiit37Sentence1();
+	tiit37Sentence2();
 	    
 	    
 	// DO NOT ADD AFTER THIS COMMENT
