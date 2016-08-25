@@ -13,9 +13,10 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+	awwxbbSentence1();
 	wb_MySentence1();
-	wb_MySentence2();   
-	    
+	wb_MySentence2();
+	awwxbbSentence_FINAL();
 	    
 	    
 	// DO NOT ADD AFTER THIS COMMENT

@@ -8,4 +8,8 @@ int bensSentence_FINAL();
 extern int wb_MySentence1();
 extern int wb_MySentence2();
 
+int awwxbbSentence1();
+int awwxbbSentence_FINAL();
+
+
 
