@@ -35,9 +35,11 @@ int kienanSentence1();
 int kienanSentence2();
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 int WXLSentence1();
 int WXLSentence2();
 =======
 int jaredsSentence1();
 int jaredsSentence_FINAL();
 >>>>>>> jvbkw8
+=======
