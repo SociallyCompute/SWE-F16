@@ -36,4 +36,3 @@ int kienanSentence2();
 
 int WXLSentence1();
 int WXLSentence2();
-

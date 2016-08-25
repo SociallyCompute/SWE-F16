@@ -19,6 +19,3 @@ int tiit37Sentence2();
 extern int wb_MySentence1();
 extern int wb_MySentence2();
 >>>>>>> origin/master
-
-
-
