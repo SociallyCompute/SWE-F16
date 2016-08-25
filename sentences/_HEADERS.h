@@ -19,3 +19,6 @@ extern int wb_MySentence2();
 
 
 
+
+void jaredsSentence1();
+void jaredsSentence2();
