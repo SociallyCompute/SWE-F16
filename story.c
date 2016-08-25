@@ -13,7 +13,8 @@ int main( void )
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	    
-	    
+	awwxbbSentence1();
+	awwxbbSentence_FINAL();    
 	    
 	    
 	// DO NOT ADD AFTER THIS COMMENT
