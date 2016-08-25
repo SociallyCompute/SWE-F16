@@ -12,7 +12,19 @@ int main( void )
 
 	// Add your sentence.
 	// Don't forget to update the header file.
+<<<<<<< HEAD
+<<<<<<< HEAD
+	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+
+
+
+
+
+=======
+	matthewsSentence1();	    
+=======
 	matthewsSentence1();
+>>>>>>> SociallyCompute/master
 	matthewsSentence2();
 
   KurtsSentence1();
@@ -32,12 +44,16 @@ int main( void )
 
   jwSentence1();
 	jwSentence2();
+<<<<<<< HEAD
+>>>>>>> SociallyCompute/master
+=======
 
 	holtSentence2();
 
 	kienanSentence1();
 	kienanSentence2();
 
+>>>>>>> SociallyCompute/master
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
