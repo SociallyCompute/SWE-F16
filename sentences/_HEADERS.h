@@ -8,4 +8,7 @@ int bensSentence_FINAL();
 extern int wb_MySentence1();
 extern int wb_MySentence2();
 
+extern int willsSentence();
+extern int willSentenceLast();
+
 
