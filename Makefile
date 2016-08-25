@@ -84,4 +84,4 @@ skinnerh.o: sentences/skinnerh.c
 		$(CC) -c $<
 kddth9.o: sentences/kddth9.c
 				$(CC) -c $<
->>>>>>> SociallyCompute/master
+
