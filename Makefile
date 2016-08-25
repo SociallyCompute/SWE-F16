@@ -53,16 +53,9 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-<<<<<<< HEAD
-story: story.o bpbkt7.o 
-=======
 
-<<<<<<< HEAD
-story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o
->>>>>>> SociallyCompute/master
-=======
 story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o
->>>>>>> SociallyCompute/master
+
 	$(CC) -o story $^
 
 
@@ -87,14 +80,8 @@ jbwy9b.o: sentences/jbwy9b.c
 	$(CC) -c $<
 aardz6.o: sentences/aardz6.c
 	$(CC) -c $<
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-=======
->>>>>>> SociallyCompute/master
-=======
 skinnerh.o: sentences/skinnerh.c
 		$(CC) -c $<
 kddth9.o: sentences/kddth9.c
 				$(CC) -c $<
->>>>>>> SociallyCompute/master
+
