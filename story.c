@@ -12,7 +12,18 @@ int main( void )
 
 	// Add your sentence.
 	// Don't forget to update the header file.
+
+	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+
+
+
+
+
+
+	matthewsSentence1();	    
+
 	matthewsSentence1();
+
 	matthewsSentence2();
 
   KurtsSentence1();
@@ -32,6 +43,7 @@ int main( void )
 
   jwSentence1();
 	jwSentence2();
+
 
 	holtSentence2();
 
