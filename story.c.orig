@@ -12,55 +12,27 @@ int main( void )
 
 	// Add your sentence.
 	// Don't forget to update the header file.
-
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-
-
-
-
-
-
-	matthewsSentence1();	    
-
-	matthewsSentence1();
-
-	matthewsSentence2();
-
-  KurtsSentence1();
-
-	holtSentence1();
-
-  KurtsSentence_FINAL();
-
-	wb_MySentence1();
 <<<<<<< HEAD
-    willsSentence();
-	wb_MySentence2();
-    willSentenceLast();
-	    
-	    
+	KurtsSentence1();
+    KurtsSentence_FINAL();
 	    
 =======
+	matthewsSentence1();	    
+	matthewsSentence2();
+	wb_MySentence1();
 	wb_MySentence2();
-
-	aliSentence1();
-	aliSentence2();
-
+	
 	tiit37Sentence1();
 	tiit37Sentence2();
-
-  jwSentence1();
-	jwSentence2();
-
-
-	holtSentence2();
-
-	kienanSentence1();
-	kienanSentence2();
-
->>>>>>> master
+>>>>>>> origin/master
+	    
+	    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
 	printf("\n\n");
 }
+
+
+
