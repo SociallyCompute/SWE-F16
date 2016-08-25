@@ -9,8 +9,7 @@ int KurtsSentence1();
 int KurtsSentence_FINAL();
 
 <<<<<<< HEAD
-int kddth9Sentence1();
-int kddth9Sentence2();
+
 =======
 int matthewsSentence1();
 int matthewsSentence2();
