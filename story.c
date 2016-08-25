@@ -76,6 +76,8 @@ int main( void )
 	WXLSentence2();
 >>>>>>> 8187818c45917d5da20ea42cec456d57c783b5fb
 
+	scottSentence1();
+	scottSentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

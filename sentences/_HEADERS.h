@@ -37,3 +37,5 @@ int kienanSentence2();
 int WXLSentence1();
 int WXLSentence2();
 
+int scottSentence1();
+int scottSentence2();
