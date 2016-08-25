@@ -13,8 +13,8 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	wb_MySentence1();
-	wb_MySentence2();   
+	KurtsSentence1();
+    KurtsSentence_FINAL();
 	    
 	    
 	    
