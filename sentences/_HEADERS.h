@@ -15,8 +15,12 @@ int matthewsSentence2();
 int tiit37Sentence1();
 int tiit37Sentence2();
 
+int kewkr8Sentence1();
+int kewkr8Sentence2();
+
 extern int wb_MySentence1();
 extern int wb_MySentence2();
+
 
 void jwSentence1();
 void jwSentence2();
