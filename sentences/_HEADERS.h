@@ -5,7 +5,6 @@ int bensSentence_FINAL();
 //
 // DECLARE YOUR symbols here, implement them in a standalone C file
 // vvvvvvvvvvvvvvv  Student work goes down here
-
 int matthewsSentence1();
 int matthewsSentence2();
 
@@ -17,4 +16,3 @@ extern int wb_MySentence2();
 
 void jwSentence1();
 void jwSentence2();
-
