@@ -9,6 +9,9 @@ int bensSentence_FINAL();
 int matthewsSentence1();
 int matthewsSentence2();
 
+int tiit37Sentence1();
+int tiit37Sentence2();
+
 extern int wb_MySentence1();
 extern int wb_MySentence2();
 
