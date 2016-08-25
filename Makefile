@@ -53,7 +53,7 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o jbwy9b.o
+story: story.o bpbkt7.o jbwy9b.o rft5g9.o
 	$(CC) -o story $^
 	
 
@@ -68,4 +68,5 @@ bpbkt7.o: sentences/bpbkt7.c
 	$(CC) -c $<
 jbwy9b.o: sentences/jbwy9b.c
 	$(CC) -c $<
-
+rft5g9.o: sentences/rft5g9.c
+	$(CC) -c $<

@@ -14,7 +14,9 @@ int main( void )
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE   
 	jaredsSentence1();
+	ryansSentence1();
 	jaredsSentence2();
+	ryansSentence_FINAL();
 	    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
