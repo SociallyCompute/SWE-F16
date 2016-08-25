@@ -22,3 +22,6 @@ void jwSentence2();
 
 int aliSentence1();
 int aliSentence2();
+
+int holtSentence1();
+int holtSentence2();
