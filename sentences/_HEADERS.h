@@ -19,3 +19,6 @@ extern int wb_MySentence2();
 
 void jwSentence1();
 void jwSentence2();
+
+int aliSentence1();
+int aliSentence2();

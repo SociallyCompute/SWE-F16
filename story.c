@@ -19,6 +19,9 @@ int main( void )
 
 	wb_MySentence1();
 	wb_MySentence2();
+
+	aliSentence1();
+	aliSentence2();
 	
 	tiit37Sentence1();
 	tiit37Sentence2();
