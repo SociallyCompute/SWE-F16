@@ -30,3 +30,6 @@ int holtSentence2();
 int kienanSentence1();
 int kienanSentence2();
 
+int WXLSentence1();
+int WXLSentence2();
+

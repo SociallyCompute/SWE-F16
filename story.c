@@ -50,6 +50,9 @@ int main( void )
 	kienanSentence1();
 	kienanSentence2();
 
+	WXLSentence1();
+	WXLSentence2();
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
