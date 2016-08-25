@@ -22,9 +22,8 @@ int main( void )
 	
 	tiit37Sentence1();
 	tiit37Sentence2();
-	jaredsSentence1();
-	jaredsSentence2();
-	    
+    jwSentence1();
+	jwSentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

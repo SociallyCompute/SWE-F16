@@ -77,4 +77,3 @@ kbzg4.o: sentences/kbzg4.c
 	$(CC) -c $<
 jbwy9b.o: sentences/jbwy9b.c		
 	$(CC) -c $<
-
