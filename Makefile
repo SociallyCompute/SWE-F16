@@ -54,31 +54,9 @@ cleanwin:
 # -----------------------------------------------
 
 
-
-
-story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o
-
-
-
-story: story.o bpbkt7.o
-
-
-
-story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o
-
-story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o
-
-story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o wlkr7.o yhcz4.o
-
-
-
-story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o kewkr8.o
-
-story: story.o bpbkt7.o mjrqq3.o tiit37.o wb334.o kewkr8.o
-
-
+story: story.o bpbkt7.o wb334.o
 	$(CC) -o story $^
-
+	
 
 # -----------------------------------------------
 
@@ -88,26 +66,7 @@ story.o: story.c
 # -----------------------------------------------
 #pawprint.o -  where is your .c derived object file - where is your file
 bpbkt7.o: sentences/bpbkt7.c
-		$(CC) -c $<
-mjrqq3.o: sentences/mjrqq3.c
-		$(CC) -c $<
-tiit37.o: sentences/tiit37.c
-		$(CC) -c $<
+	$(CC) -c $<
 wb334.o: sentences/wb334.c
-		$(CC) -c $<
-kbzg4.o: sentences/kbzg4.c
-		$(CC) -c $<
-jbwy9b.o: sentences/jbwy9b.c
-		$(CC) -c $<
-aardz6.o: sentences/aardz6.c
-		$(CC) -c $<
-skinnerh.o: sentences/skinnerh.c
-		$(CC) -c $<
-kddth9.o: sentences/kddth9.c
-		$(CC) -c $<
-kewkr8.o: sentences/kewkr8.c
-		$(CC) -c $<
-wlkr7.o :sentences/wlkr7.c
-		$(CC) -c $<
-yhcz4.o :sentences/yhcz4.c
-		$(CC) -c $<
+	$(CC) -c $<
+
