@@ -17,7 +17,10 @@ int main( void )
 	matthewsSentence2();
 	wb_MySentence1();
 	wb_MySentence2();
-	
+
+    jwSentence1();
+	jwSentence2();
+
 	tiit37Sentence1();
 	tiit37Sentence2();
 	    

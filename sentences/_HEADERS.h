@@ -15,5 +15,6 @@ int tiit37Sentence2();
 extern int wb_MySentence1();
 extern int wb_MySentence2();
 
-
+void jwSentence1();
+void jwSentence2();
 
