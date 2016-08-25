@@ -1,8 +1,9 @@
 #include <stdio.h>
-void jaredsSentence1(){
-		printf("Nessie was getting restless deep underwater, as it had been a very long time since she had eaten.");
+
+void jwSentence1(){
+		printf(" The lochness monster was really excited for her dance party later. ");
 }
 
-void jaredsSentence2(){
-		printf("So, in response to the restlessness of Nessie, a great and powerful wizard conjured a ham sandwhich to send to her");
+void jwSentence2(){
+		printf("Her date was a wizard with a great looking beard.");
 }
