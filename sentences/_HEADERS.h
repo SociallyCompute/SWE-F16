@@ -11,6 +11,9 @@ int wbSentence2();
 int tiit37Sentence1();
 int tiit37Sentence2();
 
+int cakd47Sentence1();
+int cakd47Sentence2();
+
 int kewkr8Sentence1();
 int kewkr8Sentence2();
 

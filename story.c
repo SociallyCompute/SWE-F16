@@ -43,6 +43,8 @@ int main( void )
 	drd436Sentence1();
 	tiit37Sentence2();
 	drd436Sentence2();
+    cakd47Sentence1();
+    cakd47Sentence2();
 
   jwSentence1();
 	jwSentence2();
