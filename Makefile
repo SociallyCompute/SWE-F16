@@ -54,11 +54,10 @@ cleanwin:
 # -----------------------------------------------
 
 
-<<<<<<< HEAD
-story: story.o bpbkt7.o wb334.o
-=======
 
->>>>>>> origin/master
+story: story.o bpbkt7.o wb334.o
+
+
 
 
 story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o drd436.o
@@ -69,35 +68,35 @@ story: story.o bpbkt7.o
 
 
 
-story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o
+story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o drd436.o
 
-story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o
+story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o drd436.o
 
-story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o wlkr7.o
-
-
-
-story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o kewkr8.o
-
-story: story.o bpbkt7.o mjrqq3.o tiit37.o wb334.o kewkr8.o
+story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o wlkr7.o drd436.o
 
 
-<<<<<<< HEAD
+
+story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o kewkr8.o drd436.o
+
+story: story.o bpbkt7.o mjrqq3.o tiit37.o wb334.o kewkr8.o drd436.o
+
+
+
 
 	$(CC) -o story $^
 	
 
 
-story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o wlkr7.o tpwvyc.o
+story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o wlkr7.o tpwvyc.o drd436.o
 	$(CC) -o story $^
 	
 
-=======
-story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o wlkr7.o tpwvyc.o yhcz4
+
+story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o wlkr7.o tpwvyc.o yhcz4 drd436.o
 	$(CC) -o story $^
 	
 
->>>>>>> origin/master
+
 # -----------------------------------------------
 
 story.o: story.c
@@ -108,7 +107,7 @@ story.o: story.c
 bpbkt7.o: sentences/bpbkt7.c
 	$(CC) -c $<
 wb334.o: sentences/wb334.c
-<<<<<<< HEAD
+
 
 	$(CC) -c $<
 
@@ -119,11 +118,11 @@ wb334.o: sentences/wb334.c
 awwxbb.o: sentences/awwxbb.c
 	$(CC) -c $<
 
-=======
+
 	$(CC) -c $<
 awwxbb.o: sentences/awwxbb.c
 	$(CC) -c $<
->>>>>>> origin/master
+
 kbzg4.o: sentences/kbzg4.c
 		$(CC) -c $<
 jbwy9b.o: sentences/jbwy9b.c
@@ -138,7 +137,7 @@ kewkr8.o: sentences/kewkr8.c
 		$(CC) -c $<
 wlkr7.o: sentences/wlkr7.c
 		$(CC) -c $<
-<<<<<<< HEAD
+
 
 
 tpwvyc.o: sentences/tpwvyc.c
@@ -147,9 +146,9 @@ tpwvyc.o: sentences/tpwvyc.c
 drd436.o: sentences/drd436.c
 	$(CC) -c $<
 
-=======
-tpwvyc.o :sentences/tpwvyc.c
+
+tpwvyc.o: sentences/tpwvyc.c
 		$(CC) -c $<
-yhcz4.o :sentences/yhcz4.c
+yhcz4.o: sentences/yhcz4.c
 		$(CC) -c $<
->>>>>>> origin/master
+

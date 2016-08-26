@@ -17,13 +17,10 @@ int main( void )
 	wbSentence1();
 	wbSentence2();
 
-<<<<<<< HEAD
 
-=======
     yisSentence1();
 	yisSentence2();
->>>>>>> origin/master
-	    
+
 	    
 
 
@@ -61,7 +58,9 @@ int main( void )
 	aliSentence2();
 
 	tiit37Sentence1();
+	drd436Sentence1();
 	tiit37Sentence2();
+	drd436Sentence2();
 
   jwSentence1();
 	jwSentence2();
