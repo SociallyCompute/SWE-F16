@@ -53,7 +53,11 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
+<<<<<<< HEAD
 
+<<<<<<< HEAD
+story: story.o bpbkt7.o wb334.o
+=======
 
 
 story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o
@@ -77,9 +81,15 @@ story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o kewk
 story: story.o bpbkt7.o mjrqq3.o tiit37.o wb334.o kewkr8.o
 
 
+>>>>>>> parent of 6ae0624... Merge pull request #15 from SociallyCompute/yhcz4
 	$(CC) -o story $^
+	
 
-
+=======
+story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o wlkr7.o tpwvyc.o
+	$(CC) -o story $^
+	
+>>>>>>> 8cf3e129e4ee7008e185ef53a262d2a68cac4e4d
 # -----------------------------------------------
 
 story.o: story.c
@@ -88,13 +98,19 @@ story.o: story.c
 # -----------------------------------------------
 #pawprint.o -  where is your .c derived object file - where is your file
 bpbkt7.o: sentences/bpbkt7.c
-		$(CC) -c $<
-mjrqq3.o: sentences/mjrqq3.c
-		$(CC) -c $<
-tiit37.o: sentences/tiit37.c
-		$(CC) -c $<
+	$(CC) -c $<
 wb334.o: sentences/wb334.c
+<<<<<<< HEAD
+<<<<<<< HEAD
+	$(CC) -c $<
+
+=======
 		$(CC) -c $<
+=======
+	$(CC) -c $<
+awwxbb.o: sentences/awwxbb.c
+	$(CC) -c $<
+>>>>>>> 8cf3e129e4ee7008e185ef53a262d2a68cac4e4d
 kbzg4.o: sentences/kbzg4.c
 		$(CC) -c $<
 jbwy9b.o: sentences/jbwy9b.c
@@ -109,3 +125,9 @@ kewkr8.o: sentences/kewkr8.c
 		$(CC) -c $<
 wlkr7.o :sentences/wlkr7.c
 		$(CC) -c $<
+<<<<<<< HEAD
+>>>>>>> parent of 6ae0624... Merge pull request #15 from SociallyCompute/yhcz4
+=======
+tpwvyc.o :sentences/tpwvyc.c
+		$(CC) -c $<
+>>>>>>> 8cf3e129e4ee7008e185ef53a262d2a68cac4e4d
