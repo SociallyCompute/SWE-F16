@@ -17,7 +17,12 @@ int main( void )
 	wbSentence1();
 	wbSentence2();
 
+<<<<<<< HEAD
 
+=======
+    yisSentence1();
+	yisSentence2();
+>>>>>>> origin/master
 	    
 	    
 
