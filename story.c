@@ -72,6 +72,8 @@ int main( void )
 	WXLSentence1();
 	WXLSentence2();
 
+    tpwvycSentence1();
+    tpwvycSentence2();
 
 >>>>>>> parent of 6ae0624... Merge pull request #15 from SociallyCompute/yhcz4
 	// DO NOT ADD AFTER THIS COMMENT
