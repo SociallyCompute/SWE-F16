@@ -60,6 +60,9 @@ int main( void )
 	WXLSentence1();
 	WXLSentence2();
 
+    tpwvycSentence1();
+    tpwvycSentence2();
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

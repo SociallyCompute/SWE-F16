@@ -40,4 +40,8 @@ int kienanSentence2();
 
 int WXLSentence1();
 int WXLSentence2();
+
+int tpwvycSentence1();
+int tpwvycSentence2();
+
 >>>>>>> parent of 6ae0624... Merge pull request #15 from SociallyCompute/yhcz4
