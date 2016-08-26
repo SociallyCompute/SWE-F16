@@ -36,4 +36,7 @@ int kienanSentence2();
 
 int WXLSentence1();
 int WXLSentence2();
+<<<<<<< HEAD
+>>>>>>> parent of 6ae0624... Merge pull request #15 from SociallyCompute/yhcz4
+=======
 >>>>>>> parent of 6ae0624... Merge pull request #15 from SociallyCompute/yhcz4
