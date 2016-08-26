@@ -12,25 +12,22 @@ int main( void )
 
 	// Add your sentence.
 	// Don't forget to update the header file.
+	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+	wbSentence1();
+	wbSentence2();
 
 <<<<<<< HEAD
-
-	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-
-
-
-
-
-
-	matthewsSentence1();
-
-
-	matthewsSentence1();
-
-	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+	    
+	    
 =======
-	// vvvvvvvvvvvvvvvv STUDENT WORK HERE	    
->>>>>>> 8187818c45917d5da20ea42cec456d57c783b5fb
+
+
+
+
+
+
+	
+
 
 	matthewsSentence1();
 
@@ -52,6 +49,9 @@ int main( void )
 	tiit37Sentence1();
 	tiit37Sentence2();
 
+	cakd47Sentence1();
+	cakd47Sentence2();
+
   jwSentence1();
 	jwSentence2();
 
@@ -62,7 +62,7 @@ int main( void )
 	kienanSentence1();
 	kienanSentence2();
 
-<<<<<<< HEAD
+
 	tiit37Sentence1();
 	tiit37Sentence2();
 
@@ -71,13 +71,17 @@ int main( void )
 
 
 
-=======
+
 	WXLSentence1();
 	WXLSentence2();
->>>>>>> 8187818c45917d5da20ea42cec456d57c783b5fb
 
+
+>>>>>>> parent of 6ae0624... Merge pull request #15 from SociallyCompute/yhcz4
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
 	printf("\n\n");
 }
+
+
+
