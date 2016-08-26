@@ -113,4 +113,6 @@ kewkr8.o: sentences/kewkr8.c
 		$(CC) -c $<
 wlkr7.o :sentences/wlkr7.c
 		$(CC) -c $<
+tpwvyc.o :sentences/tpwvyc.c
+		$(CC) -c $<
 >>>>>>> parent of 6ae0624... Merge pull request #15 from SociallyCompute/yhcz4
