@@ -59,6 +59,9 @@ int main( void )
     tpwvycSentence1();
     tpwvycSentence2();
 
+    jry83Sentence1();
+    jry83Sentence2();
+
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
