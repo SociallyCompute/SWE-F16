@@ -58,3 +58,6 @@ int jry83Sentence2();
 
 int kcfk28_sentence1();
 int kcfk28_sentence2();
+
+int rckc68Sentence1();
+int rckc68Sentence2();

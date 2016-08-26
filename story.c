@@ -65,6 +65,9 @@ int main( void )
 
     jry83Sentence1();
     jry83Sentence2();
+	
+	rckc68Sentence1();
+	rckc68Sentence2();
 
 
 	// DO NOT ADD AFTER THIS COMMENT
