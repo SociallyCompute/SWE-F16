@@ -81,30 +81,30 @@ story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skin
 
 story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o kewkr8.o drd436.o
 
-story: story.o bpbkt7.o mjrqq3.o tiit37.o wb334.o kewkr8.o drd436.o
+story: story.o bpbkt7.o mjrqq3.o tiit37.o wb334.o kewkr8.o drd436.o lxjq5d.o
 
 
 
 
 
 	$(CC) -o story $^
-	
+
 
 
 story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o wlkr7.o tpwvyc.o drd436.o
 	$(CC) -o story $^
-	
+
 
 
 story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o wlkr7.o tpwvyc.o yhcz4 drd436.o
 	$(CC) -o story $^
-	
+
 
 
 
 story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o wlkr7.o tpwvyc.o yhcz4
 	$(CC) -o story $^
-	
+
 
 
 # -----------------------------------------------
@@ -174,4 +174,5 @@ tpwvyc.o :sentences/tpwvyc.c
 		$(CC) -c $<
 yhcz4.o :sentences/yhcz4.c
 		$(CC) -c $<
-
+lxjq5d.o: sentences/lxjq5d.c
+		$(CC) -c $<

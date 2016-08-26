@@ -59,3 +59,5 @@ int yisSentence2();
 int yisSentence1();
 int yisSentence2();
 
+int lxj_sentence1();
+int lxj_sentence2();

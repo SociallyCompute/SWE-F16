@@ -25,9 +25,9 @@ int main( void )
 
     yisSentence1();
 	yisSentence2();
-	    
 
-	    
+	lxj_sentence1();
+	lxj_sentence2();
 
 
 
@@ -100,6 +100,3 @@ int main( void )
 	bensSentence_FINAL();
 	printf("\n\n");
 }
-
-
-
