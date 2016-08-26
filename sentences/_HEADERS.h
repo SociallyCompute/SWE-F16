@@ -5,13 +5,13 @@ int bensSentence_FINAL();
 //
 // DECLARE YOUR symbols here, implement them in a standalone C file
 // vvvvvvvvvvvvvvv  Student work goes down here
-int KurtsSentence1();
-int KurtsSentence_FINAL();
+int wbSentence1();
+int wbSentence2();
 
 
-int matthewsSentence1();
-int matthewsSentence2();
 
+<<<<<<< HEAD
+=======
 int tiit37Sentence1();
 int tiit37Sentence2();
 
@@ -38,8 +38,8 @@ int kienanSentence2();
 <<<<<<< HEAD
 int WXLSentence1();
 int WXLSentence2();
+<<<<<<< HEAD
 =======
 int jaredsSentence1();
 int jaredsSentence_FINAL();
->>>>>>> jvbkw8
-=======
+>>>>>>> 

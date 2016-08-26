@@ -12,10 +12,14 @@ int main( void )
 
 	// Add your sentence.
 	// Don't forget to update the header file.
-
-
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+	wbSentence1();
+	wbSentence2();
 
+<<<<<<< HEAD
+	    
+	    
+=======
 
 
 
@@ -69,8 +73,12 @@ int main( void )
 	WXLSentence2();
 
 
+>>>>>>> parent of 6ae0624... Merge pull request #15 from SociallyCompute/yhcz4
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
 	printf("\n\n");
 }
+
+
+
