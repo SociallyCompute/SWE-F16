@@ -48,8 +48,13 @@ int tpwvycSentence1();
 int tpwvycSentence2();
 
 
+
 int drd436Sentence1();
 int drd436Sentence2();
+
+int yisSentence1();
+int yisSentence2();
+
 
 int yisSentence1();
 int yisSentence2();

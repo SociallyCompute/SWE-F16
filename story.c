@@ -18,8 +18,14 @@ int main( void )
 	wbSentence2();
 
 
+
     yisSentence1();
 	yisSentence2();
+
+
+    yisSentence1();
+	yisSentence2();
+	    
 
 	    
 
