@@ -9,43 +9,21 @@ int main( void )
 	bensSentence1();
 	printf("\n\n");
 
-
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 
-	wbSentence1();
-	wbSentence2();
-
-
-
+//	wbSentence1();
+//	wbSentence2();
     yisSentence1();
 	yisSentence2();
-
-
-    yisSentence1();
-	yisSentence2();
-
 	lxj_sentence1();
 	lxj_sentence2();
 
-
-
-
-
-
-
-
-
-
-
-	awwxbbSentence1();
+//	awwxbbSentence1();
 	wb_MySentence1();
 	wb_MySentence2();
-	awwxbbSentence_FINAL();
-	wbSentence1();
-	wbSentence2();
-
+//	awwxbbSentence_FINAL();
 	matthewsSentence1();
 
 	matthewsSentence2();
@@ -55,10 +33,6 @@ int main( void )
 	holtSentence1();
 
   KurtsSentence_FINAL();
-
-	wb_MySentence1();
-	wb_MySentence2();
-
 
 	aliSentence1();
 	aliSentence2();
@@ -71,25 +45,16 @@ int main( void )
   jwSentence1();
 	jwSentence2();
 
-
-
 	holtSentence2();
 
 	kienanSentence1();
 	kienanSentence2();
 
+//	kewkr8Sentence1();
+//	kewkr8Sentence2();
 
-	tiit37Sentence1();
-	drd436Sentence1();
-	tiit37Sentence2();
-	drd436Sentence2();
-
-	kewkr8Sentence1();
-	kewkr8Sentence2();
-
-
-	WXLSentence1();
-	WXLSentence2();
+//	WXLSentence1();
+//	WXLSentence2();
 
     tpwvycSentence1();
     tpwvycSentence2();
