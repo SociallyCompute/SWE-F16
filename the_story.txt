@@ -1,12 +1,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> origin/master
+=======
+>>>>>>> 8cf3e129e4ee7008e185ef53a262d2a68cac4e4d
 
 
 Once upon a time
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 there was a link, a missing link that is, called 404.
@@ -19,10 +23,14 @@ The wizard's name was Albus Percival Wolfrick Brian Dumbledore.
 'How dare you?!?' barked the witch at Linus, who having been returned to his human form kissed her.
 =======
 >>>>>>> origin/master
+=======
+In a galaxy far far away.
+>>>>>>> 8cf3e129e4ee7008e185ef53a262d2a68cac4e4d
 There was a bigfoot living in an mountain.
 And he was desperately looking for a pair of shoes to keep his feet warm during the winter.
 Because of his unsual size of feet, he couldn't find one in the local town
 Have you tried Ebay?------One of this friend asked
+<<<<<<< HEAD
 <<<<<<< HEAD
 I don't like ebay, said bigfoot. Personally, I've always been an amazon fan. Suddenly, A dangerous group of ninjas arrived, they were capable of killing dinosaurs with their bare hands!
 Luckly, skilled Samaris came to the help, but the Samaris' used their katanas to make sushi and their blades were dull!
@@ -30,11 +38,17 @@ Luckly, skilled Samaris came to the help, but the Samaris' used their katanas to
 According to cryptozoology and certain other branches of fringe science, a few dinosaurs might have survived much longer, or could even be around today
 =======
 >>>>>>> origin/master
+=======
+What is Ebay?  I use Nessie.
+>>>>>>> 8cf3e129e4ee7008e185ef53a262d2a68cac4e4d
 
 The end. 
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> jvbkw8
 =======
 >>>>>>> origin/master
+=======
+>>>>>>> 8cf3e129e4ee7008e185ef53a262d2a68cac4e4d
