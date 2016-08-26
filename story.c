@@ -30,6 +30,8 @@ int main( void )
 
   KurtsSentence1();
 
+	kcfk28_sentence1();
+
 	holtSentence1();
 
   KurtsSentence_FINAL();
@@ -55,6 +57,8 @@ int main( void )
 
 	WXLSentence1();
 	WXLSentence2();
+
+	kcfk28_sentence2();
 
     tpwvycSentence1();
     tpwvycSentence2();

@@ -55,3 +55,6 @@ int matthewsSentence2();
 
 int jry83Sentence1();
 int jry83Sentence2();
+
+int kcfk28_sentence1();
+int kcfk28_sentence2();
