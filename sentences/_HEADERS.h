@@ -10,8 +10,7 @@ int wbSentence2();
 
 
 
-<<<<<<< HEAD
-=======
+
 int tiit37Sentence1();
 int tiit37Sentence2();
 
@@ -38,20 +37,15 @@ int holtSentence2();
 int kienanSentence1();
 int kienanSentence2();
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 int WXLSentence1();
 int WXLSentence2();
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
+
 int jaredsSentence1();
 int jaredsSentence_FINAL();
->>>>>>> 
-=======
 
 int tpwvycSentence1();
 int tpwvycSentence2();
 
->>>>>>> parent of 6ae0624... Merge pull request #15 from SociallyCompute/yhcz4
->>>>>>> 8cf3e129e4ee7008e185ef53a262d2a68cac4e4d
+int yisSentence1();
+int yisSentence2();

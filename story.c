@@ -13,11 +13,12 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-<<<<<<< HEAD
+
 	wbSentence1();
 	wbSentence2();
 
-<<<<<<< HEAD
+    yisSentence1();
+	yisSentence2();
 	    
 	    
 =======
