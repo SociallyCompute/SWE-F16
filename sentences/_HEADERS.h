@@ -32,8 +32,8 @@ int holtSentence2();
 int kienanSentence1();
 int kienanSentence2();
 
-//int WXLSentence1();
-//int WXLSentence2();
+int WXLSentence1();
+int WXLSentence2();
 
 int jaredsSentence1();
 int jaredsSentence_FINAL();

@@ -53,8 +53,8 @@ int main( void )
 //	kewkr8Sentence1();
 //	kewkr8Sentence2();
 
-//	WXLSentence1();
-//	WXLSentence2();
+	WXLSentence1();
+	WXLSentence2();
 
     tpwvycSentence1();
     tpwvycSentence2();
