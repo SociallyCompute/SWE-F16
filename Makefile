@@ -53,13 +53,8 @@ cleanwin:
 # And how do we make it?
 # -----------------------------------------------
 
-<<<<<<< HEAD
-story: story.o bpbkt7.o wb334.o wmmhyc.o
-=======
-
 story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o
 
->>>>>>> master
 	$(CC) -o story $^
 
 
@@ -80,11 +75,9 @@ wb334.o: sentences/wb334.c
 		$(CC) -c $<
 kbzg4.o: sentences/kbzg4.c
 	$(CC) -c $<
-<<<<<<< HEAD
 wmmhyc.o: sentences/wmmhyc.c
 	$(CC) -c $<
 
-=======
 jbwy9b.o: sentences/jbwy9b.c
 	$(CC) -c $<
 aardz6.o: sentences/aardz6.c
@@ -93,5 +86,4 @@ skinnerh.o: sentences/skinnerh.c
 		$(CC) -c $<
 kddth9.o: sentences/kddth9.c
 				$(CC) -c $<
->>>>>>> master
 

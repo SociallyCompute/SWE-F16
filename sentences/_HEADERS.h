@@ -18,11 +18,11 @@ int tiit37Sentence2();
 extern int wb_MySentence1();
 extern int wb_MySentence2();
 
-<<<<<<< HEAD
+//<<<<<<< HEAD
 extern int willsSentence();
 extern int willSentenceLast();
 
-=======
+//=======
 void jwSentence1();
 void jwSentence2();
 
@@ -34,5 +34,5 @@ int holtSentence2();
 
 int kienanSentence1();
 int kienanSentence2();
->>>>>>> master
+//>>>>>>> master
 

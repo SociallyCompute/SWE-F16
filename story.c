@@ -33,14 +33,14 @@ int main( void )
   KurtsSentence_FINAL();
 
 	wb_MySentence1();
-<<<<<<< HEAD
+//<<<<<<< HEAD
     willsSentence();
 	wb_MySentence2();
     willSentenceLast();
 	    
 	    
 	    
-=======
+//=======
 	wb_MySentence2();
 
 	aliSentence1();
@@ -58,7 +58,7 @@ int main( void )
 	kienanSentence1();
 	kienanSentence2();
 
->>>>>>> master
+//>>>>>>> master
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
