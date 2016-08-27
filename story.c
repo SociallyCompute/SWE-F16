@@ -15,6 +15,7 @@ int main( void )
 
 //	wbSentence1();
 //	wbSentence2();
+btkvfSentence2();
     yisSentence1();
 	yisSentence2();
 	lxj_sentence1();
@@ -67,7 +68,7 @@ int main( void )
 
     jry83Sentence1();
     jry83Sentence2();
-
+btkvfSentence1();
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
