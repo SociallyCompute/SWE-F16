@@ -4,13 +4,13 @@
 // Function to include & executeA
 int willsSentence()
 {
-  printf("He asked Santa for some 'sick kicks' for Christmas. However he decided he needed a pair of socks at the very least until then.\n");
+  printf("However Ned's sword, Ice, had been melted down by Tywin Lannister, so the samurai contacted their evil friends, who were inflatable hamsters, to help.\n");
   return 1;
 }
 
 int willSentenceLast()
 {
-  printf("\nI haven't used ebay since I saw someone selling an inflatable hedgehog--that's not cool!----professed the bigfoot\n");
+  printf("\nHowever, he forgot to save 15%% or more on car insurance!!\n");
   return 1;
 }
 
