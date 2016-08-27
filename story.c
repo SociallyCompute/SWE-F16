@@ -15,9 +15,15 @@ int main( void )
 
 //	wbSentence1();
 //	wbSentence2();
+<<<<<<< HEAD
     btkvfSentence2();
+=======
+	btkvfSentence2();
+>>>>>>> origin/master
     yisSentence1();
+	jdhcp3Sentence1();
 	yisSentence2();
+	jdhcp3Sentence2();
 	lxj_sentence1();
 	lxj_sentence2();
 

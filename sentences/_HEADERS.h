@@ -80,3 +80,6 @@ int KurtsSentence_FINAL();
 
 void btkvfSentence1();
 void btkvfSentence2();
+
+int jdhcp3Sentence1();
+int jdhcp3Sentence2();
