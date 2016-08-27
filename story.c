@@ -39,7 +39,10 @@ btkvfSentence2();
 
 	aliSentence1();
 	aliSentence2();
-
+	
+	kyw356Sentence1();
+	kyw356Sentence2();
+	
 	tiit37Sentence1();
 	drd436Sentence1();
 	tiit37Sentence2();
@@ -47,8 +50,8 @@ btkvfSentence2();
     cakd47Sentence1();
     cakd47Sentence2();
     
-    swof44Sentence1();
-    swof44Sentence2();
+    //swof44Sentence1();
+    //swof44Sentence2();
 
   jwSentence1();
 	jwSentence2();
