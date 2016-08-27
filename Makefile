@@ -101,3 +101,5 @@ cakd47.o: sentences/cakd47.c
 	$(CC) -c $<
 btkvf.o: sentences/btkvf.c
 	$(CC) -c $<
+swof44.o: sentences/swof44.c
+	$(CC) -c $<

@@ -46,6 +46,9 @@ btkvfSentence2();
 	drd436Sentence2();
     cakd47Sentence1();
     cakd47Sentence2();
+    
+    swof44Sentence1();
+    swof44Sentence2();
 
   jwSentence1();
 	jwSentence2();
