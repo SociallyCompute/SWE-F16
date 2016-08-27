@@ -15,8 +15,20 @@ int main( void )
 
 //	wbSentence1();
 //	wbSentence2();
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> master
     btkvfSentence2();
 	btkvfSentence2();
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
+=======
+	btkvfSentence2();
+>>>>>>> origin/master
+>>>>>>> master
     yisSentence1();
 	jdhcp3Sentence1();
 	yisSentence2();
