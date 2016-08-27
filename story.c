@@ -16,7 +16,11 @@ int main( void )
 //	wbSentence1();
 //	wbSentence2();
 <<<<<<< HEAD
+<<<<<<< HEAD
     btkvfSentence2();
+=======
+	btkvfSentence2();
+>>>>>>> origin/master
 =======
 	btkvfSentence2();
 >>>>>>> origin/master
