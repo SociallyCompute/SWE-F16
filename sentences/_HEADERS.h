@@ -83,3 +83,6 @@ void btkvfSentence2();
 
 int jdhcp3Sentence1();
 int jdhcp3Sentence2();
+
+int aws52bSentence1();
+int aws52bSentence2();
