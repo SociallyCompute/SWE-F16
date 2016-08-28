@@ -82,9 +82,12 @@ int main( void )
     willSentenceLast();
 
 
+<<<<<<< HEAD
 	mrkgh6sentence1();
 	mrkgh6sentence2();
 
+=======
+>>>>>>> cc0c86a8018cd43aaf6abd03c604691144f4d3e7
 	scottSentence1();
 	scottSentence2();
 	// DO NOT ADD AFTER THIS COMMENT
