@@ -85,6 +85,8 @@ int main( void )
 	mrkgh6sentence1();
 	mrkgh6sentence2();
 
+	scottSentence1();
+	scottSentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
