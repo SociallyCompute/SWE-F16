@@ -17,6 +17,7 @@ int main( void )
 //	wbSentence2();
 
     btkvfSentence2();
+    aws52bSentence2();
 
     yisSentence1();
 	jdhcp3Sentence1();
@@ -69,6 +70,8 @@ int main( void )
 
 	kienanSentence1();
 	kienanSentence2();
+    
+    aws52bSentence1();
     
 
 	WXLSentence1();
