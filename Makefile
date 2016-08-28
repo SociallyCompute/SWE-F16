@@ -52,11 +52,17 @@ cleanwin:
 # 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
-story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o yhcz4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o tpwvyc.o drd436.o lxjq5d.o wlkr7.o jry83.o
+
+
+
+
+
+story: story.o bpbkt7.o tiit37.o wb334.o kbzg4.o yhcz4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o tpwvyc.o drd436.o lxjq5d.o wlkr7.o jry83.o kcfk28.o cakd47.o btkvf.o jdhcp3.o swof44.o wmmhyc.o
+
 	$(CC) -o story $^
 # -----------------------------------------------
 
-story.o: story.c 
+story.o: story.c
 	$(CC) -c $^
 
 # -----------------------------------------------
@@ -67,8 +73,15 @@ wb334.o: sentences/wb334.c
 	$(CC) -c $<
 awwxbb.o: sentences/awwxbb.c
 	$(CC) -c $<
+
+jdhcp3.o: sentences/jdhcp3.c
+	$(CC) -c $<
+
 kbzg4.o: sentences/kbzg4.c
 	$(CC) -c $<
+wmmhyc.o: sentences/wmmhyc.c
+	$(CC) -c $<
+
 jbwy9b.o: sentences/jbwy9b.c
 	$(CC) -c $<
 aardz6.o: sentences/aardz6.c
@@ -93,7 +106,13 @@ tiit37.o: sentences/tiit37.c
 	$(CC) -c $<
 mjrqq3.o: sentences/mjrqq3.c
 	$(CC) -c $<
-wlkr7.o: sentences/wlkr7.c
-	$(CC) -c $<
 jry83.o: sentences/jry83.c
+	$(CC) -c $<
+kcfk28.o: sentences/kcfk28.c
+	$(CC) -c $<
+cakd47.o: sentences/cakd47.c
+	$(CC) -c $<
+btkvf.o: sentences/btkvf.c
+	$(CC) -c $<
+swof44.o: sentences/swof44.c
 	$(CC) -c $<
