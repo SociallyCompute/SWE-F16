@@ -30,3 +30,5 @@ int holtSentence2();
 int kienanSentence1();
 int kienanSentence2();
 
+int mrkgh6sentence1();
+int mrkgh6sentence2();

@@ -17,11 +17,6 @@ int main( void )
 
 
 
-
-
-
-	matthewsSentence1();	    
-
 	matthewsSentence1();
 
 	matthewsSentence2();
@@ -49,6 +44,9 @@ int main( void )
 
 	kienanSentence1();
 	kienanSentence2();
+
+	mrkgh6sentence1();
+	mrkgh6sentence2();
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
