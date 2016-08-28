@@ -73,6 +73,8 @@ wb334.o: sentences/wb334.c
 	$(CC) -c $<
 awwxbb.o: sentences/awwxbb.c
 	$(CC) -c $<
+aws52b.o: sentences/aws52b.c
+    $(CC) -c $<
 
 jdhcp3.o: sentences/jdhcp3.c
 	$(CC) -c $<
