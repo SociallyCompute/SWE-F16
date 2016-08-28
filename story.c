@@ -15,9 +15,13 @@ int main( void )
 
 //	wbSentence1();
 //	wbSentence2();
+
     btkvfSentence2();
+
     yisSentence1();
+	jdhcp3Sentence1();
 	yisSentence2();
+	jdhcp3Sentence2();
 	lxj_sentence1();
 	lxj_sentence2();
 
