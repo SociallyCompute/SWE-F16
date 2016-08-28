@@ -7,7 +7,7 @@ int aws52bSentence1()
     return 1;
 }
 
-int aws52bSentence_FINAL()
+int aws52bSentence2()
 {
     printf("right next to Cleveland, actually, there is a group known as the cryptozoologists.\n");
     return 1;
