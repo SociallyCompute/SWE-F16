@@ -109,7 +109,6 @@ int main( void )
 	hlv68Sentence1();
 	hlv68Sentence2();
 
-
 	scottSentence1();
 	scottSentence2();
 	// DO NOT ADD AFTER THIS COMMENT
