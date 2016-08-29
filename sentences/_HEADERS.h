@@ -108,6 +108,11 @@ int bz7v2Sentence2();
 int jadppfSentence1();
 int jadppfSentence2();
 
+<<<<<<< HEAD
 int benjaminSentence1();
 int benjaminSentence2();
 
+=======
+void erbmt9a();
+void erbmt9b();
+>>>>>>> origin/master

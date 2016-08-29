@@ -66,7 +66,7 @@ int main( void )
 
 	kienanSentence1();
 	kienanSentence2();
-    
+	erbmt9a();    
 
 	WXLSentence1();
 	WXLSentence2();
@@ -103,8 +103,12 @@ int main( void )
     jadppfSentence1();
     jadppfSentence2();
 
+
+	erbmt9b();
+
 	hlv68Sentence1();
 	hlv68Sentence2();
+
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
