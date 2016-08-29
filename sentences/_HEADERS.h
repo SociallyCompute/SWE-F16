@@ -108,3 +108,6 @@ int bz7v2Sentence2();
 int jadppfSentence1();
 int jadppfSentence2();
 
+int benjaminSentence1();
+int benjaminSentence2();
+
