@@ -102,3 +102,6 @@ int ctpq8Sentence2();
 int bz7v2Sentence1();
 int bz7v2Sentence2();
 
+int jadppfSentence1();
+int jadppfSentence2();
+

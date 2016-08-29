@@ -99,6 +99,9 @@ int main( void )
 	
         bz7v2Sentence1();
         bz7v2Sentence2();
+        
+    jadppfSentence1();
+    jadppfSentence2();
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
