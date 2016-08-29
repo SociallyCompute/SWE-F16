@@ -86,6 +86,10 @@ int main( void )
     xlv4cSentence1();
     xlv4cSentence2();
 
+
+        
+        csb5h4Sentence1();
+        csb5h4Sentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
