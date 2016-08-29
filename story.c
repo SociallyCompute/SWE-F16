@@ -103,7 +103,12 @@ int main( void )
     jadppfSentence1();
     jadppfSentence2();
 
+<<<<<<< HEAD
 	erbmt9b();
+=======
+	hlv68Sentence1();
+	hlv68Sentence2();
+>>>>>>> master
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
