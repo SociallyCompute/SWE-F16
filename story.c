@@ -90,6 +90,9 @@ int main( void )
         
 	ctpq8Sentence1();
 	ctpq8Sentence2();
+	
+        bz7v2Sentence1();
+        bz7v2Sentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
