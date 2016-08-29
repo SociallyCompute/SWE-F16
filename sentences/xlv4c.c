@@ -1,4 +1,7 @@
-#include <studio.h>
+
+
+#include <stdio.h>
+
 int xlv4cSentence1(){
     printf("Reports of horned cats are usually associated with legends of demon cats and not taken very seriously by cryptozoologists or any other scientists.\n");
     return 1;

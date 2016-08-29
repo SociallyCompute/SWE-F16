@@ -78,8 +78,6 @@ int main( void )
 
     jry83Sentence1();
     jry83Sentence2();
-    btkvfSentence1();
-    willSentenceLast();
 
 
 	mrkgh6sentence1();

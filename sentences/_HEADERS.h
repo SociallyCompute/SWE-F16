@@ -75,6 +75,10 @@ int jry83Sentence2();
 int kcfk28_sentence1();
 int kcfk28_sentence2();
 
+
+int xlv4cSentence1();
+int xlv4cSentence2();
+
 int KurtsSentence1();
 int KurtsSentence_FINAL();
 
@@ -85,5 +89,7 @@ int jdhcp3Sentence1();
 int mrkgh6sentence1();
 int mrkgh6sentence2();
 
-int xlv4cSentence1();
-int xlv4cSentence2();
+
+
+
+
