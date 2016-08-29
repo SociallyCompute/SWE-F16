@@ -19,6 +19,7 @@ int main( void )
     btkvfSentence2();
 	btkvfSentence1();
     yisSentence1();
+	nihr43sentence1();
 	jdhcp3Sentence1();
 	yisSentence2();
 	jdhcp3Sentence2();
@@ -64,6 +65,8 @@ int main( void )
 
 	holtSentence2();
 
+
+
 	kienanSentence1();
 	kienanSentence2();
     
@@ -73,8 +76,12 @@ int main( void )
 
 	kcfk28_sentence2();
 
+	nihr43sentence2();
+
     tpwvycSentence1();
     tpwvycSentence2();
+
+
 
     jry83Sentence1();
     jry83Sentence2();
@@ -105,7 +112,10 @@ int main( void )
 
 	hlv68Sentence1();
 	hlv68Sentence2();
-
+	
+	scottSentence1();
+	scottSentence2();
+	
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
