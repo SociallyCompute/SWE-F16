@@ -81,9 +81,15 @@ int main( void )
     btkvfSentence1();
     willSentenceLast();
 
-
+	
+	
 	mrkgh6sentence1();
 	mrkgh6sentence2();
+	
+	dek8v5sentence1();
+	dek8v5sentence2();
+	
+
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
