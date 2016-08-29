@@ -87,3 +87,6 @@ int mrkgh6sentence2();
 
 int csb5h4Sentence1();
 int csb5h4Sentence2();
+
+int ctpq8Sentence1();
+int ctpq8Sentence2();

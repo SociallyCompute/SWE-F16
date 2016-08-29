@@ -87,8 +87,12 @@ int main( void )
         
         csb5h4Sentence1();
         csb5h4Sentence2();
+        
+	ctpq8Sentence1();
+	ctpq8Sentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
 	printf("\n\n");
 }
+

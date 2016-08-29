@@ -1,4 +1,3 @@
-
 #################################################
 # Makefile format
 # target: dependencies
@@ -55,7 +54,7 @@ cleanwin:
 
 
 
-story: story.o bpbkt7.o tiit37.o mrkgh6.o wb334.o kbzg4.o yhcz4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o tpwvyc.o drd436.o lxjq5d.o wlkr7.o jry83.o kcfk28.o cakd47.o btkvf.o jdhcp3.o swof44.o wmmhyc.o csb5h4.o
+story: story.o bpbkt7.o tiit37.o mrkgh6.o wb334.o kbzg4.o yhcz4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o tpwvyc.o drd436.o lxjq5d.o wlkr7.o jry83.o kcfk28.o cakd47.o btkvf.o jdhcp3.o swof44.o wmmhyc.o csb5h4.o ctpq8.o
 
 	$(CC) -o story $^
 # -----------------------------------------------
@@ -119,3 +118,8 @@ mrkgh6.o: sentences/mrkgh6.c
 	$(CC) -c $<
 csb5h4.o: sentences/csb5h4.c
 	$(CC) -c $<
+ctpq8.o: sentences/ctpq8.c
+	$(CC) -c $<
+
+
+
