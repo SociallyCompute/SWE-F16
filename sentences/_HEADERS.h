@@ -108,5 +108,6 @@ int bz7v2Sentence2();
 int jadppfSentence1();
 int jadppfSentence2();
 
-void erbmt9a();
-void erbmt9b();
+int nihr43sentence1();
+int nihr43sentence2();
+

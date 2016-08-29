@@ -19,6 +19,7 @@ int main( void )
     btkvfSentence2();
 	btkvfSentence1();
     yisSentence1();
+	nihr43sentence1();
 	jdhcp3Sentence1();
 	yisSentence2();
 	jdhcp3Sentence2();
@@ -64,17 +65,23 @@ int main( void )
 
 	holtSentence2();
 
+
+
 	kienanSentence1();
 	kienanSentence2();
-	erbmt9a();    
+    
 
 	WXLSentence1();
 	WXLSentence2();
 
 	kcfk28_sentence2();
 
+	nihr43sentence2();
+
     tpwvycSentence1();
     tpwvycSentence2();
+
+
 
     jry83Sentence1();
     jry83Sentence2();
@@ -103,11 +110,10 @@ int main( void )
     jadppfSentence1();
     jadppfSentence2();
 
-
-	erbmt9b();
-
 	hlv68Sentence1();
 	hlv68Sentence2();
+
+
 
 
 	// DO NOT ADD AFTER THIS COMMENT
