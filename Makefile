@@ -125,3 +125,5 @@ bz7v2.o: sentences/bz7v2.c
 	$(CC) -c $<
 xlv4c.o :sentences/xlv4c.c
 	$(CC) -c $<
+jadppf.o :sentences/jadppf.c
+	$(CC) -c $<
