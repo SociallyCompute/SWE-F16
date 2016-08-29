@@ -58,6 +58,9 @@ int main( void )
 
     tpwvycSentence1();
     tpwvycSentence2();
+	
+	andreaSentence1();
+	andreaSentence2();
 
 
 	// DO NOT ADD AFTER THIS COMMENT

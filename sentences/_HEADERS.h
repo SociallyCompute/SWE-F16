@@ -53,3 +53,7 @@ int lxj_sentence2();
 int matthewsSentence1();
 int matthewsSentence2();
 
+int andreaSentence1();
+int andreaSentence2();
+
+
