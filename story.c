@@ -103,6 +103,11 @@ int main( void )
     jadppfSentence1();
     jadppfSentence2();
 
+	hlv68Sentence1();
+	hlv68Sentence2();
+	
+	mjsxwcSentence1();
+        mjsxwcSentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
