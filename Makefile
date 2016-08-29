@@ -117,4 +117,6 @@ swof44.o: sentences/swof44.c
 				$(CC) -c $<
 mrkgh6.o: sentences/mrkgh6.c
 	$(CC) -c $<
+xlv4c.o: sentences/xlv4c.c
+    $(CC) -c $<
 

@@ -84,6 +84,9 @@ int main( void )
 
 	mrkgh6sentence1();
 	mrkgh6sentence2();
+    
+    xlv4cSentence1();
+    xlv4cSentence2();
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

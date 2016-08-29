@@ -84,3 +84,6 @@ void btkvfSentence2();
 int jdhcp3Sentence1();
 int mrkgh6sentence1();
 int mrkgh6sentence2();
+
+int xlv4cSentence1();
+int xlv4cSentence2();
