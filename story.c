@@ -17,7 +17,7 @@ int main( void )
 //	wbSentence2();
 
     btkvfSentence2();
-
+	btkvfSentence1();
     yisSentence1();
 	jdhcp3Sentence1();
 	yisSentence2();
