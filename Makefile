@@ -128,14 +128,11 @@ xlv4c.o :sentences/xlv4c.c
 	$(CC) -c $<
 jadppf.o :sentences/jadppf.c
 	$(CC) -c $<
-<<<<<<< HEAD
-=======
 sdw3md.o: sentences/sdw3md.c
 	$(CC) -c $<
 
 erbmt9.o :sentences/erbmt9.c
 	$(CC) -c $<
->>>>>>> sdw3md
 hlv68.o :sentences/hlv68.c
 	$(CC) -c $<
 nihr43.o: sentences/nihr43.c
