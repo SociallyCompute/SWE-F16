@@ -26,8 +26,6 @@ int main( void )
 	lxj_sentence2();
 
 //	awwxbbSentence1();
-	wb_MySentence1();
-	wb_MySentence2();
 //	awwxbbSentence_FINAL();
 	matthewsSentence1();
 
@@ -46,7 +44,6 @@ int main( void )
     
 	    
 	    
-	wb_MySentence2();
 
 	aliSentence1();
 	aliSentence2();
@@ -85,6 +82,11 @@ int main( void )
     willSentenceLast();
 
 
+	mrkgh6sentence1();
+	mrkgh6sentence2();
+        
+        csb5h4Sentence1();
+        csb5h4Sentence2();
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

@@ -7,6 +7,5 @@ int kienanSentence1(){
 
 int kienanSentence2(){
   printf("According to cryptozoology and certain other branches of fringe science, a few dinosaurs might have survived much longer, or could even be around today\n");
-
   return 1;
 }
