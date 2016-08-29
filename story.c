@@ -65,6 +65,9 @@ int main( void )
 
     jry83Sentence1();
     jry83Sentence2();
+    
+    xlv4cSentence1();
+    xlv4cSentence2();
 
 
 	// DO NOT ADD AFTER THIS COMMENT

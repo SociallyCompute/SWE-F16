@@ -58,3 +58,7 @@ int jry83Sentence2();
 
 int kcfk28_sentence1();
 int kcfk28_sentence2();
+
+int xlv4cSentence1();
+int xlv4cSentence2();
+

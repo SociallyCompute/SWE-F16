@@ -99,3 +99,5 @@ jry83.o: sentences/jry83.c
 	$(CC) -c $<
 kcfk28.o: sentences/kcfk28.c
 	$(CC) -c $<
+xlv4c.o: sentences/xlv4c.c
+	$(CC) -c $<
