@@ -118,6 +118,9 @@ int main( void )
 	
 	scottSentence1();
 	scottSentence2();
+
+	int zmd989Sentence1();
+	int zmd989Sentence_FINAL();
 	
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
