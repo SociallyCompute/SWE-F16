@@ -93,7 +93,9 @@ int main( void )
 	mrkgh6sentence1();
 	mrkgh6sentence2();
 
-    
+   dek8v5Sentence1();
+   dek8v5Sentence2();
+
     xlv4cSentence1();
     xlv4cSentence2();
 
