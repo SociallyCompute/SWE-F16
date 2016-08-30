@@ -37,6 +37,8 @@ int main(void)
 
     KurtsSentence1();
 
+	jbiyt3sentence1();
+
 	kcfk28_sentence1();
 
 	holtSentence1();
@@ -65,6 +67,8 @@ int main(void)
 
     jwSentence1();
 	jwSentence2();
+
+	jbiyt3sentence2();
 
 	holtSentence2();
 
