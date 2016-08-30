@@ -5,12 +5,6 @@ int bensSentence_FINAL();
 //
 // DECLARE YOUR symbols here, implement them in a standalone C file
 // vvvvvvvvvvvvvvv  Student work goes down here
-<<<<<<< HEAD
-
-void jaredsSentence1();
-void jaredsSentence2();
-=======
->>>>>>> master
 
 /*
  #	Makefile
@@ -130,6 +124,3 @@ int scottSentence2();
 
 int oamr6Sentence1();
 int oamr6Sentence2();
-
-int zmd989Sentence1();
-int zmd989Sentence_FINAL();
