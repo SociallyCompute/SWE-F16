@@ -133,3 +133,6 @@ int rft5g9Sentence_FINAL();
 
 int jbiyt3sentence1();
 int jbiyt3sentence2();
+
+int pkpdmbSentence1();
+int pkpdmbSentence2();

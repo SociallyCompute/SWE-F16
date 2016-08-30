@@ -8,12 +8,12 @@ int main(void)
 	printf("\n\n");
 	bensSentence1();
 	printf("\n\n");
-	
+
 
 
 	// Add your sentence.
 	// Don't forget to update the header file.
-	// vvvvvvvvvvvvvvvv STUDENT WORK HERE   
+	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	oamr6Sentence1();
 	oamr6Sentence2();
 	//wbSentence1();
@@ -47,9 +47,9 @@ int main(void)
 
 	wb_MySentence1();
 	wb_MySentence2();
-    
-	    
-	    
+
+
+
 
 	aliSentence1();
 	aliSentence2();
@@ -61,7 +61,7 @@ int main(void)
     willsSentence();
     cakd47Sentence1();
     cakd47Sentence2();
-    
+
     //swof44Sentence1();
     //swof44Sentence2();
 
@@ -76,7 +76,7 @@ int main(void)
 
 	kienanSentence1();
 	kienanSentence2();
-    
+
 
 	WXLSentence1();
 	WXLSentence2();
@@ -106,29 +106,32 @@ int main(void)
 
       	rft5g9Sentence1();
 	rft5g9Sentence_FINAL();
-        
-        
+
+
         csb5h4Sentence1();
         csb5h4Sentence2();
-        
+
 	ctpq8Sentence1();
 	ctpq8Sentence2();
-	
+
         bz7v2Sentence1();
         bz7v2Sentence2();
-        
+
     jadppfSentence1();
     jadppfSentence2();
 
 	hlv68Sentence1();
 	hlv68Sentence2();
-	
+
 	scottSentence1();
 	scottSentence2();
 
 	zmd989Sentence1();
 	zmd989Sentence_FINAL();
-	
+
+	pkpdmbSentence1();
+	pkpdmbSentence2();
+
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
