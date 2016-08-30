@@ -15,6 +15,9 @@ int bensSentence_FINAL();
 int wbSentence1();
 int wbSentence2();
 
+void raj8r8Sentence1();
+void raj8r8Sentence2();
+
 int tiit37Sentence1();
 int tiit37Sentence2();
 
