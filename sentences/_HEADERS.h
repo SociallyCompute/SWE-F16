@@ -37,3 +37,5 @@ int kienanSentence2();
 int WXLSentence1();
 int WXLSentence2();
 
+int rebkv5Sentence1();
+int rebkv5Sentence2();
