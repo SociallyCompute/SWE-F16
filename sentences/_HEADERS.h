@@ -119,3 +119,6 @@ void erbmt9b();
 
 int scottSentence1();
 int scottSentence2();
+
+int oamr6Sentence1();
+int oamr6Sentence2();
