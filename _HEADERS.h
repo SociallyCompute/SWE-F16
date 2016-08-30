@@ -50,12 +50,6 @@ int kienanSentence2();
 
 int WXLSentence1();
 int WXLSentence2();
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 6ae0624... Merge pull request #15 from SociallyCompute/yhcz4
-=======
->>>>>>> parent of 6ae0624... Merge pull request #15 from SociallyCompute/yhcz4
-=======
 
 int jaredsSentence1();
 int jaredsSentence_FINAL();
@@ -130,16 +124,3 @@ int scottSentence2();
 
 int oamr6Sentence1();
 int oamr6Sentence2();
-
-int zmd989Sentence1();
-int zmd989Sentence_FINAL();
-
-int rft5g9Sentence1();
-int rft5g9Sentence_FINAL();
-
-int jbiyt3sentence1();
-int jbiyt3sentence2();
-
-int pkpdmbSentence1();
-int pkpdmbSentence2();
->>>>>>> origin/master

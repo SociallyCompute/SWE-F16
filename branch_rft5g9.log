@@ -1,0 +1,211 @@
+commit 97b20dcec041a381bc26afbd623889ba5c2e41fe
+Author: Ryan Tray <rft5g9@mail.missouri.edu>
+Date:   Thu Aug 25 11:15:52 2016 -0500
+
+    Adding all modified files that were left out of first commit
+
+ Makefile             |   5 +++--
+ bpbkt7.o             | Bin 1688 -> 913 bytes
+ jbwy9b.o             | Bin 1888 -> 1088 bytes
+ sentences/_HEADERS.h |   3 +++
+ story.c              |   2 ++
+ story.o              | Bin 1896 -> 1148 bytes
+ the_story.txt        |  19 -------------------
+ 7 files changed, 8 insertions(+), 21 deletions(-)
+
+commit 2fa7a290cbeae4fc494f9c04f09d4677b5acc236
+Author: Ryan Tray <rft5g9@mail.missouri.edu>
+Date:   Thu Aug 25 11:10:11 2016 -0500
+
+    Adding my two lines to the story
+
+ rft5g9.o           | Bin 0 -> 1099 bytes
+ sentences/rft5g9.c |  14 ++++++++++++++
+ story.exe          | Bin 0 -> 71134 bytes
+ 3 files changed, 14 insertions(+)
+
+commit 1f1df141a2c45897a5e3150906a3946778790e7e
+Author: Jared Welch <jbwy9b@mail.missouri.edu>
+Date:   Thu Aug 25 09:54:09 2016 -0500
+
+    remove df
+
+ df | 240 ---------------------------------------------------------------------
+ 1 file changed, 240 deletions(-)
+
+commit 8a275181026cf03e193f55be1c7253d00a93a7b3
+Merge: a9f334b 69c3634
+Author: Jared Welch <jbwy9b@mail.missouri.edu>
+Date:   Thu Aug 25 09:48:48 2016 -0500
+
+    fixed merge conflicts
+
+commit a9f334bce0387cfa5011d4d1412b6d5840cfc8a9
+Author: Jared Welch <jbwy9b@mail.missouri.edu>
+Date:   Thu Aug 25 09:41:17 2016 -0500
+
+    merge new sentences:
+
+ branch_jbwy9b.log | 64 +++++++++++++++++++++++++++++++++++++++++++++++
+ master_jbwy9b.log | 74 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 138 insertions(+)
+
+commit 69c36348e49aea79bb1fbbff58ddf32c25ab62d4
+Merge: b46cc4c 7c3ebbc
+Author: Teddy Ivanov <theiceytiger2@gmail.com>
+Date:   Wed Aug 24 23:42:58 2016 -0500
+
+    Merge pull request #5 from SociallyCompute/tiit37
+    
+    Tiit37
+
+commit 7c3ebbc0b72164ad499e95c29dcf16186718b78d
+Author: Teddy Ivanov <theiceytiger2@gmail.com>
+Date:   Wed Aug 24 23:33:59 2016 -0500
+
+    Update story.c
+
+ story.c | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 8475d77291e43a8cc10b4df3e494e90b96397105
+Author: Teddy Ivanov <theiceytiger2@gmail.com>
+Date:   Wed Aug 24 23:32:57 2016 -0500
+
+    Update Makefile
+
+ Makefile | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit e49e4971d4e64ca6cc17603145e229d7ce1fdedd
+Author: Teddy Ivanov <theiceytiger2@gmail.com>
+Date:   Wed Aug 24 23:31:43 2016 -0500
+
+    Update _HEADERS.h
+
+ sentences/_HEADERS.h | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit f8b11e35a7cba062047a44b9af2da329fddb9788
+Author: Teddy Ivanov <theiceytiger2@gmail.com>
+Date:   Wed Aug 24 23:30:37 2016 -0500
+
+    Add files via upload
+    
+    Adding my own pawprint c file
+
+ sentences/tiit37.c | 12 ++++++++++++
+ 1 file changed, 12 insertions(+)
+
+commit 547355a2b3b275e64eca1dd291d3d2e297f7f823
+Author: Teddy Ivanov <theiceytiger2@gmail.com>
+Date:   Wed Aug 24 23:29:59 2016 -0500
+
+    Delete tiit37.c
+
+ tiit37.c | 12 ------------
+ 1 file changed, 12 deletions(-)
+
+commit 1eed14de7e8400d9c231e3837a8e92244f8056b4
+Author: Teddy Ivanov <theiceytiger2@gmail.com>
+Date:   Wed Aug 24 23:29:43 2016 -0500
+
+    Add files via upload
+
+ tiit37.c | 12 ++++++++++++
+ 1 file changed, 12 insertions(+)
+
+commit b46cc4c7e33695b52a6a9ef52654c26e5e80950c
+Merge: db5fe8c 12ba1bb
+Author: Matthew Romero Moore <mjrqq3@mail.missouri.edu>
+Date:   Wed Aug 24 22:29:43 2016 -0500
+
+    pulled from master
+
+commit db5fe8cfb100075e110531fb68d074835e1c39b9
+Author: Matthew Romero Moore <mjrqq3@mail.missouri.edu>
+Date:   Wed Aug 24 19:27:28 2016 -0500
+
+    edited files to complete exercise
+
+ Makefile             |  4 +++-
+ sentences/_HEADERS.h |  3 ++-
+ sentences/mjrqq3.c   | 11 +++++++++++
+ story.c              |  4 ++--
+ the_story.txt        |  3 +++
+ 5 files changed, 21 insertions(+), 4 deletions(-)
+
+commit 7029b651ed43e5d49b1333de924f5427873c3c57
+Author: Jared Welch <jbwy9b@mail.missouri.edu>
+Date:   Wed Aug 24 17:08:35 2016 -0500
+
+    merged jbwy9b branch into master
+
+ sentences/wb334.c |  16 ----------------
+ wb334.o           | Bin 1268 -> 0 bytes
+ 2 files changed, 16 deletions(-)
+
+commit 90aa13226555ba18a1d29a4d2efd24b4d0d5fe65
+Author: Jared Welch <jbwy9b@mail.missouri.edu>
+Date:   Wed Aug 24 17:01:22 2016 -0500
+
+    added sentences and changed makefile:
+
+ Makefile             |   4 ++--
+ bpbkt7.o             | Bin 972 -> 1688 bytes
+ jbwy9b.o             | Bin 0 -> 1888 bytes
+ sentences/_HEADERS.h |   4 ++--
+ sentences/jbwy9b.c   |   8 ++++++++
+ story                | Bin 8624 -> 8782 bytes
+ story.c              |   8 +++-----
+ story.o              | Bin 1020 -> 1896 bytes
+ 8 files changed, 15 insertions(+), 9 deletions(-)
+
+commit 12ba1bb78f5ebd76e77f859a082a291a1956cc4d
+Merge: 1fdbc61 2c32a01
+Author: Sean P. Goggins <s@goggins.com>
+Date:   Wed Aug 24 15:04:50 2016 -0500
+
+    Merge pull request #2 from bowenqiang/master
+    
+    create new story by wenqiang bo
+
+commit 2c32a012442f86524d47b07c692749c3d88fcf0a
+Author: wenqiang bo <wb334@mail.missouri.edu>
+Date:   Tue Aug 23 16:47:10 2016 -0500
+
+    create new story by wb334
+
+ Makefile             |   4 +++-
+ bpbkt7.o             | Bin 0 -> 972 bytes
+ sentences/_HEADERS.h |   3 ++-
+ sentences/wb334.c    |  16 ++++++++++++++++
+ story                | Bin 0 -> 8624 bytes
+ story.c              |   4 +++-
+ story.o              | Bin 0 -> 1020 bytes
+ the_story.txt        |   4 ++++
+ wb334.o              | Bin 0 -> 1268 bytes
+ 9 files changed, 28 insertions(+), 3 deletions(-)
+
+commit 1fdbc6177015927e048995e20188d21f06e62008
+Author: Sean P. Goggins <s@goggins.com>
+Date:   Tue Aug 23 11:35:44 2016 -0500
+
+    Update README.md
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit ac3d0a5d656698af70704232c959549d12fec196
+Author: Sean P. Goggins <s@goggins.com>
+Date:   Tue Aug 23 07:19:49 2016 -0500
+
+    Initial Commit
+
+ Makefile             | 70 ++++++++++++++++++++++++++++++++++++++++++++++++++++
+ README.md            |  4 +++
+ sentences/_HEADERS.h | 10 ++++++++
+ sentences/bpbkt7.c   | 18 ++++++++++++++
+ story.c              | 26 +++++++++++++++++++
+ the_story.txt        |  9 +++++++
+ 6 files changed, 137 insertions(+)
