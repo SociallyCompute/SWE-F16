@@ -130,3 +130,6 @@ int zmd989Sentence_FINAL();
 
 int rft5g9Sentence1();
 int rft5g9Sentence_FINAL();
+
+int jbiyt3sentence1();
+int jbiyt3sentence2();
