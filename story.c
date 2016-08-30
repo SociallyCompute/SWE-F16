@@ -3,7 +3,7 @@
 
 // I assume all of you know C.
 
-int main( void )
+int main(void)
 {
 	printf("\n\n");
 	bensSentence1();
@@ -13,29 +13,24 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE   
-	jaredsSentence1();
 	ryansSentence1();
-	jaredsSentence2();
 	ryansSentence_FINAL();
 	    
 	matthewsSentence1();	    
 	matthewsSentence2();
-    KurtsSentence1();
-    KurtsSentence_FINAL();
+    	KurtsSentence1();
+    	KurtsSentence_FINAL();
 
 	wb_MySentence1();
 	wb_MySentence2();
 	
 	tiit37Sentence1();
 	tiit37Sentence2();
-    jwSentence1();
+    	jwSentence1();
 	jwSentence2();
->>>>>>> f4ee1d322f9dd430fe48b81612ab4a9d1c857eb6
+
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
 	printf("\n\n");
 }
-
-
-

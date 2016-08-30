@@ -76,8 +76,5 @@ kbzg4.o: sentences/kbzg4.c
 	$(CC) -c $<
 jbwy9b.o: sentences/jbwy9b.c		
 	$(CC) -c $<
-<<<<<<< HEAD
 rft5g9.o: sentences/rft5g9.c
 	$(CC) -c $<
-=======
->>>>>>> f4ee1d322f9dd430fe48b81612ab4a9d1c857eb6
