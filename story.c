@@ -62,6 +62,9 @@ int main( void )
 	kienanSentence1();
 	kienanSentence2();
 
+	rebkv5Sentence1();
+	rebkv5Sentence2();
+	
 <<<<<<< HEAD
 	tiit37Sentence1();
 	tiit37Sentence2();
