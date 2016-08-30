@@ -8,11 +8,14 @@ int main( void )
 	printf("\n\n");
 	bensSentence1();
 	printf("\n\n");
+	
+
 
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-
+	oamr6Sentence1();
+	oamr6Sentence2();
 //	wbSentence1();
 //	wbSentence2();
 
