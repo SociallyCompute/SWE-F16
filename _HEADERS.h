@@ -124,15 +124,3 @@ int scottSentence2();
 
 int oamr6Sentence1();
 int oamr6Sentence2();
-
-int zmd989Sentence1();
-int zmd989Sentence_FINAL();
-
-int rft5g9Sentence1();
-int rft5g9Sentence_FINAL();
-
-int jbiyt3sentence1();
-int jbiyt3sentence2();
-
-int pkpdmbSentence1();
-int pkpdmbSentence2();
