@@ -54,8 +54,8 @@ cleanwin:
 
 
 
-story: story.o bpbkt7.o cahpx3.o tiit37.o mrkgh6.o wb334.o kbzg4.o yhcz4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o tpwvyc.o drd436.o lxjq5d.o wlkr7.o jry83.o kcfk28.o cakd47.o btkvf.o jdhcp3.o swof44.o wmmhyc.o csb5h4.o dek8v5.o ctpq8.o bz7v2.o xlv4c.o jadppf.o hlv68.o nihr43.o erbmt9.o sdw3md.o oamr6.o zmd989.o rft5g9.o jbiyt3.o pkpdmb.o ztbc68.o awwxbb.o ajmz82.o
-	$(CC) -o story $^ 
+story: story.o bpbkt7.o cahpx3.o tiit37.o mrkgh6.o wb334.o kbzg4.o yhcz4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o tpwvyc.o drd436.o lxjq5d.o wlkr7.o jry83.o kcfk28.o cakd47.o btkvf.o jdhcp3.o swof44.o wmmhyc.o csb5h4.o dek8v5.o ctpq8.o bz7v2.o xlv4c.o jadppf.o hlv68.o nihr43.o erbmt9.o sdw3md.o oamr6.o zmd989.o rft5g9.o jbiyt3.o pkpdmb.o ztbc68.o awwxbb.o ajmz82.o ajb6f4.o
+	$(CC) -o story $^
 
 # -----------------------------------------------
 
@@ -155,4 +155,6 @@ jbiyt3.o: sentences/jbiyt3.c
 pkpdmb.o: sentences/pkpdmb.c
 	$(CC) -c $<
 ztbc68.o: sentences/ztbc68.c
+	$(CC) -c $<
+ajb6f4.o: sentences/ajb6f4.c
 	$(CC) -c $<

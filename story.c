@@ -35,6 +35,8 @@ int main(void)
 	matthewsSentence2();
 
 	awwxbbSentence_FINAL();
+	ajb6f4Sentence1();
+	ajb6f4Sentence2();
     KurtsSentence1();
 
 	jbiyt3sentence1();
@@ -47,7 +49,7 @@ int main(void)
 
 	wb_MySentence1();
 	wb_MySentence2();
-	
+
 	aliSentence1();
 	aliSentence2();
 
@@ -86,7 +88,7 @@ int main(void)
 
     tpwvycSentence1();
     tpwvycSentence2();
-	
+
 	andreaSentence1();
 	andreaSentence2();
 

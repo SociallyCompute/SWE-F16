@@ -146,4 +146,5 @@ int ztbc68Sentence2();
 int andreaSentence1();
 int andreaSentence2();
 
-
+int ajb6f4Sentence1();
+int ajb6f4Sentence2();
