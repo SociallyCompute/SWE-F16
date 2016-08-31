@@ -121,6 +121,8 @@ int nihr43sentence2();
 
 void erbmt9a();
 void erbmt9b();
+void erbmt9c();
+void erbmt9d();
 
 int scottSentence1();
 int scottSentence2();

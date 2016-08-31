@@ -16,6 +16,7 @@ int main(void)
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	awwxbbSentence1();
 	oamr6Sentence1();
+	erbmt9c();
 	oamr6Sentence2();
 	//wbSentence1();
 	//wbSentence2();
@@ -75,7 +76,8 @@ int main(void)
 
 	kienanSentence1();
 	kienanSentence2();
-
+	erbmt9a();
+	erbmt9b();
 
 	WXLSentence1();
 	WXLSentence2();
@@ -112,8 +114,8 @@ int main(void)
 
         csb5h4Sentence1();
         csb5h4Sentence2();
-
 	ctpq8Sentence1();
+	erbmt9d();
 	ctpq8Sentence2();
 
         bz7v2Sentence1();
