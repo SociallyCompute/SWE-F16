@@ -132,6 +132,9 @@ int main(void)
 	pkpdmbSentence1();
 	pkpdmbSentence2();
 
+	ztbc68Sentence1();
+	ztbc68Sentence2();
+
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
