@@ -15,6 +15,9 @@ int bensSentence_FINAL();
 int wbSentence1();
 int wbSentence2();
 
+int cahpx3Sentence1();
+int cahpx3Sentence2();
+
 int tiit37Sentence1();
 int tiit37Sentence2();
 

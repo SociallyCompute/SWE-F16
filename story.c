@@ -47,10 +47,7 @@ int main(void)
 
 	wb_MySentence1();
 	wb_MySentence2();
-
-
-
-
+	
 	aliSentence1();
 	aliSentence2();
 
@@ -62,6 +59,8 @@ int main(void)
     cakd47Sentence1();
     cakd47Sentence2();
 
+	cahpx3Sentence1();
+	cahpx3Sentence2();
     //swof44Sentence1();
     //swof44Sentence2();
 
