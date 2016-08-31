@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void btkvfSentence1(){
-	printf("He saved many a hassle with his amazing powers\n");
+	printf("In a time long before the present\n");
 }
 
 void btkvfSentence2(){
