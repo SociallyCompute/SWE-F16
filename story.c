@@ -14,6 +14,7 @@ int main(void)
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+	awwxbbSentence1();
 	oamr6Sentence1();
 	oamr6Sentence2();
 	//wbSentence1();
@@ -29,12 +30,11 @@ int main(void)
 	lxj_sentence1();
 	lxj_sentence2();
 
-	//awwxbbSentence1();
-	//awwxbbSentence_FINAL();
 	matthewsSentence1();
 
 	matthewsSentence2();
 
+	awwxbbSentence_FINAL();
     KurtsSentence1();
 
 	jbiyt3sentence1();
