@@ -69,6 +69,7 @@ int lxj_sentence2();
 int matthewsSentence1();
 int matthewsSentence2();
 
+
 int jry83Sentence1();
 int jry83Sentence2();
 
@@ -138,3 +139,8 @@ int pkpdmbSentence2();
 
 int ztbc68Sentence1();
 int ztbc68Sentence2();
+
+int andreaSentence1();
+int andreaSentence2();
+
+
