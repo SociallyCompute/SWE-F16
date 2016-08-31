@@ -114,8 +114,8 @@ int main(void)
 
         csb5h4Sentence1();
         csb5h4Sentence2();
-	erbmt9d();
 	ctpq8Sentence1();
+	erbmt9d();
 	ctpq8Sentence2();
 
         bz7v2Sentence1();
