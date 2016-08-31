@@ -89,6 +89,7 @@ void btkvfSentence1();
 void btkvfSentence2();
 
 int jdhcp3Sentence1();
+int jdhcp3Sentence2();
 
 int mrkgh6sentence1();
 int mrkgh6sentence2();
@@ -98,8 +99,6 @@ int dek8v5Sentence2();
 
 int csb5h4Sentence1();
 int csb5h4Sentence2();
-
-
 
 int ctpq8Sentence1();
 int ctpq8Sentence2();
@@ -136,3 +135,6 @@ int jbiyt3sentence2();
 
 int pkpdmbSentence1();
 int pkpdmbSentence2();
+
+int ztbc68Sentence1();
+int ztbc68Sentence2();
