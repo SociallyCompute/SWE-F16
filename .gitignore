@@ -2,3 +2,6 @@
 
 # Ignore the_story.txt
 the_story.txt
+
+# ignore compiled object files
+*.o
