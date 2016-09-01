@@ -12,6 +12,9 @@ int bensSentence_FINAL();
  #	story.c
  #	the_story.txt
  */
+int raj8r8Sentence1();
+int raj8r8Sentence2();
+
 int wbSentence1();
 int wbSentence2();
 
