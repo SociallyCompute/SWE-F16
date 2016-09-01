@@ -19,7 +19,7 @@
 CC= gcc
 # -----------------------------------------------
 # CLEAN definition - git rid of compiled stuff
-CLEAN= rm -rf *.o story rm -rf the_story.txt
+CLEAN= rm -rf *.o story rm -rf 
 CLEANWIN = del /f /s *.o *.exe story
 # -----------------------------------------------
 # TEST definition - write to file and cat file
@@ -117,10 +117,8 @@ swof44.o: sentences/swof44.c
 	$(CC) -c $<
 mrkgh6.o: sentences/mrkgh6.c
 	$(CC) -c $<
-
 dek8v5.o: sentences/dek8v5.c
 	$(CC) -c $<
-
 csb5h4.o: sentences/csb5h4.c
 	$(CC) -c $<
 ctpq8.o: sentences/ctpq8.c
@@ -135,7 +133,6 @@ sdw3md.o: sentences/sdw3md.c
 	$(CC) -c $<
 ajmz82.o: sentences/ajmz82.c
 	$(CC) -c $<
-
 erbmt9.o :sentences/erbmt9.c
 	$(CC) -c $<
 hlv68.o :sentences/hlv68.c
@@ -155,4 +152,6 @@ ztbc68.o: sentences/ztbc68.c
 ajb6f4.o: sentences/ajb6f4.c
 	$(CC) -c $<
 raj8r8.o: sentences/raj8r8.c
+	$(CC) -c $<
+kewkr8.o: sentences/kewkr8.c
 	$(CC) -c $<
