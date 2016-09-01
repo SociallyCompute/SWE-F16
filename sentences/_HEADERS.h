@@ -54,8 +54,8 @@ int kienanSentence2();
 int WXLSentence1();
 int WXLSentence2();
 
-int jaredsSentence1();
-int jaredsSentence_FINAL();
+int jvbSentence1();
+int jvbSentence_FINAL();
 
 int tpwvycSentence1();
 int tpwvycSentence2();

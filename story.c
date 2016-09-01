@@ -71,6 +71,9 @@ int main(void)
 
 	holtSentence2();
 
+	jvbSentence1();
+	jvbSentence_FINAL();
+
 
 
 	kienanSentence1();
