@@ -19,7 +19,7 @@
 CC= gcc
 # -----------------------------------------------
 # CLEAN definition - git rid of compiled stuff
-CLEAN= rm -rf *.o story
+CLEAN= rm -rf *.o story rm -rf 
 CLEANWIN = del /f /s *.o *.exe story
 # -----------------------------------------------
 # TEST definition - write to file and cat file
@@ -54,15 +54,9 @@ cleanwin:
 
 
 
-
-story: story.o bpbkt7.o tiit37.o mrkgh6.o wb334.o kbzg4.o yhcz4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o tpwvyc.o drd436.o lxjq5d.o wlkr7.o jry83.o kcfk28.o cakd47.o btkvf.o jdhcp3.o swof44.o wmmhyc.o csb5h4.o ctpq8.o bz7v2.o xlv4c.o jadppf.o hlv68.o nihr43.o erbmt9.o sdw3md.o oamr6.o
-
-
+story: story.o bpbkt7.o cahpx3.o tiit37.o mrkgh6.o wb334.o kbzg4.o yhcz4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o tpwvyc.o drd436.o lxjq5d.o wlkr7.o jry83.o kcfk28.o cakd47.o btkvf.o jdhcp3.o swof44.o wmmhyc.o csb5h4.o dek8v5.o ctpq8.o bz7v2.o xlv4c.o jadppf.o hlv68.o nihr43.o erbmt9.o sdw3md.o oamr6.o zmd989.o rft5g9.o jbiyt3.o pkpdmb.o ztbc68.o awwxbb.o ajmz82.o ajb6f4.o raj8r8.o kewkr8.o
 	$(CC) -o story $^
-# -----------------------------------------------
 
-story.o: story.c
-	$(CC) -c $^
 
 # -----------------------------------------------
 #pawprint.o -  where is your .c derived object file - where is your file
@@ -74,6 +68,9 @@ awwxbb.o: sentences/awwxbb.c
 	$(CC) -c $<
 
 jdhcp3.o: sentences/jdhcp3.c
+	$(CC) -c $<
+
+cahpx3.o: sentences/cahpx3.c
 	$(CC) -c $<
 
 kbzg4.o: sentences/kbzg4.c
@@ -107,6 +104,7 @@ tiit37.o: sentences/tiit37.c
 	$(CC) -c $<
 mjrqq3.o: sentences/mjrqq3.c
 	$(CC) -c $<
+
 jry83.o: sentences/jry83.c
 	$(CC) -c $<
 kcfk28.o: sentences/kcfk28.c
@@ -118,6 +116,8 @@ btkvf.o: sentences/btkvf.c
 swof44.o: sentences/swof44.c
 	$(CC) -c $<
 mrkgh6.o: sentences/mrkgh6.c
+	$(CC) -c $<
+dek8v5.o: sentences/dek8v5.c
 	$(CC) -c $<
 csb5h4.o: sentences/csb5h4.c
 	$(CC) -c $<
@@ -131,10 +131,25 @@ jadppf.o :sentences/jadppf.c
 	$(CC) -c $<
 sdw3md.o: sentences/sdw3md.c
 	$(CC) -c $<
-
+ajmz82.o: sentences/ajmz82.c
+	$(CC) -c $<
 erbmt9.o :sentences/erbmt9.c
 	$(CC) -c $<
 hlv68.o :sentences/hlv68.c
 	$(CC) -c $<
 nihr43.o: sentences/nihr43.c
+	$(CC) -c $<
+zmd989.o: sentences/zmd989.c
+	$(CC) -c $<
+rft5g9.o: sentences/rft5g9.c
+	$(CC) -c $<
+jbiyt3.o: sentences/jbiyt3.c
+	$(CC) -c $<
+pkpdmb.o: sentences/pkpdmb.c
+	$(CC) -c $<
+ztbc68.o: sentences/ztbc68.c
+	$(CC) -c $<
+ajb6f4.o: sentences/ajb6f4.c
+	$(CC) -c $<
+raj8r8.o: sentences/raj8r8.c
 	$(CC) -c $<
