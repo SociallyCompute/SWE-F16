@@ -22,6 +22,7 @@ int main(void)
 
     	btkvfSentence2();
 	btkvfSentence1();
+	raj8r8Sentence1();
     	yisSentence1();
 	nihr43sentence1();
 	jdhcp3Sentence1();
@@ -35,6 +36,8 @@ int main(void)
 	matthewsSentence2();
 
 	awwxbbSentence_FINAL();
+	ajb6f4Sentence1();
+	ajb6f4Sentence2();
     KurtsSentence1();
 
 	jbiyt3sentence1();
@@ -47,7 +50,7 @@ int main(void)
 
 	wb_MySentence1();
 	wb_MySentence2();
-	
+
 	aliSentence1();
 	aliSentence2();
 
@@ -86,7 +89,7 @@ int main(void)
 
     tpwvycSentence1();
     tpwvycSentence2();
-	
+
 	andreaSentence1();
 	andreaSentence2();
 
@@ -95,6 +98,7 @@ int main(void)
     jry83Sentence1();
     jry83Sentence2();
 
+	raj8r8Sentence2();
 
 	mrkgh6sentence1();
 	mrkgh6sentence2();
