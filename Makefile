@@ -19,7 +19,7 @@
 CC= gcc
 # -----------------------------------------------
 # CLEAN definition - git rid of compiled stuff
-CLEAN= rm -rf *.o story rm -rf the_story.txt
+CLEAN= rm -rf *.o story rm -rf 
 CLEANWIN = del /f /s *.o *.exe story
 # -----------------------------------------------
 # TEST definition - write to file and cat file
