@@ -151,5 +151,5 @@ ztbc68.o: sentences/ztbc68.c
 	$(CC) -c $<
 ajb6f4.o: sentences/ajb6f4.c
 	$(CC) -c $<
-raj8r8.o: sentences/raj8r8.c
-	$(CC) -c $<
+#raj8r8.o: sentences/raj8r8.c
+#	$(CC) -c $<
