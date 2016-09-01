@@ -121,10 +121,14 @@ swof44.o: sentences/swof44.c
 	$(CC) -c $<
 mrkgh6.o: sentences/mrkgh6.c
 	$(CC) -c $<
+<<<<<<< HEAD
 
 dek8v5.o: sentences/dek8v5.c
 	$(CC) -c $<
 
+=======
+<<<<<<< HEAD
+>>>>>>> 972827de2185cfe8ad80a5a9836f6f709fcab69c
 csb5h4.o: sentences/csb5h4.c
 	$(CC) -c $<
 ctpq8.o: sentences/ctpq8.c
@@ -135,6 +139,8 @@ xlv4c.o :sentences/xlv4c.c
 	$(CC) -c $<
 jadppf.o :sentences/jadppf.c
 	$(CC) -c $<
+=======
+>>>>>>> 66f3b9ab2b38cf8862b31093e499bd18d7806b76
 sdw3md.o: sentences/sdw3md.c
 	$(CC) -c $<
 ajmz82.o: sentences/ajmz82.c
