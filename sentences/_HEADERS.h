@@ -18,6 +18,9 @@ int raj8r8Sentence2();
 int wbSentence1();
 int wbSentence2();
 
+int sydSentence1();
+int sydSentence2();
+
 int cahpx3Sentence1();
 int cahpx3Sentence2();
 
