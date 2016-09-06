@@ -15,6 +15,7 @@ int main(void)
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
 	awwxbbSentence1();
+	sydSentence1();
 	oamr6Sentence1();
 	oamr6Sentence2();
 	//wbSentence1();
@@ -77,6 +78,7 @@ int main(void)
 
 
 	kienanSentence1();
+	sydSentence2();
 	kienanSentence2();
 
 
