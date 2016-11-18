@@ -119,9 +119,11 @@ int bz7v2Sentence2();
 int jadppfSentence1();
 int jadppfSentence2();
 
+<<<<<<< HEAD
 int benjaminSentence1();
 int benjaminSentence2();
 
+<<<<<<< HEAD
 int nihr43sentence1();
 int nihr43sentence2();
 
@@ -154,3 +156,9 @@ int andreaSentence2();
 
 int ajb6f4Sentence1();
 int ajb6f4Sentence2();
+=======
+=======
+void erbmt9a();
+void erbmt9b();
+>>>>>>> origin/master
+>>>>>>> babf34

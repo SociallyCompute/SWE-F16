@@ -54,7 +54,15 @@ cleanwin:
 
 
 
+<<<<<<< HEAD
 story: story.o bpbkt7.o cahpx3.o tiit37.o mrkgh6.o wb334.o kbzg4.o yhcz4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o tpwvyc.o drd436.o lxjq5d.o wlkr7.o jry83.o kcfk28.o cakd47.o btkvf.o jdhcp3.o swof44.o wmmhyc.o csb5h4.o dek8v5.o ctpq8.o bz7v2.o xlv4c.o jadppf.o hlv68.o nihr43.o erbmt9.o sdw3md.o oamr6.o zmd989.o rft5g9.o jbiyt3.o pkpdmb.o ztbc68.o awwxbb.o ajmz82.o ajb6f4.o raj8r8.o kewkr8.o smbtz7.o
+=======
+
+
+story: story.o bpbkt7.o tiit37.o mrkgh6.o wb334.o kbzg4.o yhcz4.o mjrqq3.o jbwy9b.o aardz6.o skinnerh.o kddth9.o tpwvyc.o drd436.o lxjq5d.o wlkr7.o jry83.o kcfk28.o cakd47.o btkvf.o jdhcp3.o swof44.o wmmhyc.o csb5h4.o ctpq8.o bz7v2.o xlv4c.o jadppf.o hlv68.o erbmt9.o babf34.o
+
+
+>>>>>>> babf34
 	$(CC) -o story $^
 
 
@@ -132,14 +140,19 @@ xlv4c.o :sentences/xlv4c.c
 	$(CC) -c $<
 jadppf.o :sentences/jadppf.c
 	$(CC) -c $<
+<<<<<<< HEAD
 sdw3md.o: sentences/sdw3md.c
 	$(CC) -c $<
 ajmz82.o: sentences/ajmz82.c
 	$(CC) -c $<
+=======
+
+>>>>>>> babf34
 erbmt9.o :sentences/erbmt9.c
 	$(CC) -c $<
 hlv68.o :sentences/hlv68.c
 	$(CC) -c $<
+<<<<<<< HEAD
 nihr43.o: sentences/nihr43.c
 	$(CC) -c $<
 zmd989.o: sentences/zmd989.c
@@ -158,3 +171,7 @@ raj8r8.o: sentences/raj8r8.c
 	$(CC) -c $<
 kewkr8.o: sentences/kewkr8.c
 	$(CC) -c $<
+=======
+babf34.o :sentences/babf34.c
+	$(CC) -c $<
+>>>>>>> babf34

@@ -80,7 +80,11 @@ int main(void)
 	kienanSentence1();
 	sydSentence2();
 	kienanSentence2();
+<<<<<<< HEAD
 
+=======
+	erbmt9a();    
+>>>>>>> babf34
 
 	WXLSentence1();
 	WXLSentence2();
@@ -128,9 +132,13 @@ int main(void)
     jadppfSentence1();
     jadppfSentence2();
 
+
+	erbmt9b();
+
 	hlv68Sentence1();
 	hlv68Sentence2();
 
+<<<<<<< HEAD
 	scottSentence1();
 	scottSentence2();
 
@@ -143,6 +151,8 @@ int main(void)
 	ztbc68Sentence1();
 	ztbc68Sentence2();
 
+=======
+>>>>>>> babf34
 
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
